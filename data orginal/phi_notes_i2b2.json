@@ -1,0 +1,2573 @@
+{
+    "100-01.xml": {
+        "text": "\n\n\nRecord date: 2106-02-12\n\nCampbell Orthopedic Associates\n4 Madera Circle\nOmak, GA 28172\n \nHabib Valenzuela, M.D.\n \n \n                                             Valdez, Harlan Jr.  \n                                           845-41-54-4\n                                             February 12, 2106 \nHar is a 43 year old 6' 214 pound gentleman who is referred for\nconsultation by Dr. Harlan Oneil.  About a week ago he slipped on\nthe driveway at home and sustained an injury to his left ankle. \nHe was seen at Tri-City Hospital and was told he had a\nfracture.  He was placed in an air splint and advised to be\npartial weight bearing, and he is using a cane.  He is here for\nroutine follow-up. \nPast medical history is notable for no ankle injuries previously. \nHe has a history of diabetes and sleep apnea.  He takes Prozac,\nCardizem, Glucophage and Amaryl.  He is also followed by Dr. Harold\nNutter for an arrhythmia.  He does not smoke.  He drinks\nminimally.  He is a set designer at Columbia Pictures.\n \nOn examination today he has slight tenderness of the left ankle\nabout four fingerbreadths above the malleolus.  The malleolus is\nnon-tender medially or laterally with no ligamentous tenderness\neither.  Dorsal flexion and plantar flexion is without pain. \nThere is no significant swelling.  There are no some skin changes\nwith some small abrasions proximally.  There is no fibular\ntenderness proximally.  No anterior pain is noted.  No hindfoot,\nmidfoot or forefoot tenderness is noted. \nI would like him to use a tube sock with his air cast.  He is\nusing a cane for ambulation.  His x-rays do not show a notable\nfracture pattern today, and we will await the Radiology opinion. \nI would like him to stay in the air splint with the sock.  I will\nsee him back in six weeks for review at the Boxborough office. \n \n \nDiagnosis:  Left ankle fracture.\n \n \n \n \n \n__________________________________________\nHabib Valenzuela, M.D.\n \nHV/kuntz\nMmedical\n \ncc:  Harlan Oneil, M.D.\n     \n     Harold Nutter, M.D.\n     Doctors Hospital North\n     64 Bruce St\n     Omak, GA 72196\n \nHabib Valenzuela, M.D.\n \nDD: 02/12/06\nDT: 02/17/06\nDV: 02/12/06\n ******** Not reviewed by Attending Physician ********\n\n\n\n\n",
+        "phi": [
+            {
+                "id": "P0",
+                "start": "16",
+                "end": "26",
+                "text": "2106-02-12",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P1",
+                "start": "28",
+                "end": "36",
+                "text": "Campbell",
+                "TYPE": "HOSPITAL",
+                "comment": ""
+            },
+            {
+                "id": "P2",
+                "start": "59",
+                "end": "74",
+                "text": "4 Madera Circle",
+                "TYPE": "STREET",
+                "comment": ""
+            },
+            {
+                "id": "P3",
+                "start": "75",
+                "end": "79",
+                "text": "Omak",
+                "TYPE": "CITY",
+                "comment": ""
+            },
+            {
+                "id": "P4",
+                "start": "81",
+                "end": "83",
+                "text": "GA",
+                "TYPE": "STATE",
+                "comment": ""
+            },
+            {
+                "id": "P5",
+                "start": "84",
+                "end": "89",
+                "text": "28172",
+                "TYPE": "ZIP",
+                "comment": ""
+            },
+            {
+                "id": "P6",
+                "start": "92",
+                "end": "108",
+                "text": "Habib Valenzuela",
+                "TYPE": "DOCTOR",
+                "comment": ""
+            },
+            {
+                "id": "P7",
+                "start": "164",
+                "end": "182",
+                "text": "Valdez, Harlan Jr.",
+                "TYPE": "PATIENT",
+                "comment": ""
+            },
+            {
+                "id": "P8",
+                "start": "228",
+                "end": "239",
+                "text": "845-41-54-4",
+                "TYPE": "MEDICALRECORD",
+                "comment": ""
+            },
+            {
+                "id": "P9",
+                "start": "285",
+                "end": "302",
+                "text": "February 12, 2106",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P10",
+                "start": "304",
+                "end": "307",
+                "text": "Har",
+                "TYPE": "PATIENT",
+                "comment": ""
+            },
+            {
+                "id": "P11",
+                "start": "313",
+                "end": "315",
+                "text": "43",
+                "TYPE": "AGE",
+                "comment": ""
+            },
+            {
+                "id": "P12",
+                "start": "388",
+                "end": "400",
+                "text": "Harlan Oneil",
+                "TYPE": "DOCTOR",
+                "comment": ""
+            },
+            {
+                "id": "P13",
+                "start": "514",
+                "end": "531",
+                "text": "Tri-City Hospital",
+                "TYPE": "HOSPITAL",
+                "comment": ""
+            },
+            {
+                "id": "P14",
+                "start": "890",
+                "end": "903",
+                "text": "Harold Nutter",
+                "TYPE": "DOCTOR",
+                "comment": ""
+            },
+            {
+                "id": "P15",
+                "start": "974",
+                "end": "986",
+                "text": "set designer",
+                "TYPE": "PROFESSION",
+                "comment": ""
+            },
+            {
+                "id": "P16",
+                "start": "990",
+                "end": "1007",
+                "text": "Columbia Pictures",
+                "TYPE": "ORGANIZATION",
+                "comment": ""
+            },
+            {
+                "id": "P17",
+                "start": "1799",
+                "end": "1809",
+                "text": "Boxborough",
+                "TYPE": "CITY",
+                "comment": ""
+            },
+            {
+                "id": "P18",
+                "start": "1909",
+                "end": "1925",
+                "text": "Habib Valenzuela",
+                "TYPE": "DOCTOR",
+                "comment": ""
+            },
+            {
+                "id": "P19",
+                "start": "1934",
+                "end": "1936",
+                "text": "HV",
+                "TYPE": "DOCTOR",
+                "comment": ""
+            },
+            {
+                "id": "P20",
+                "start": "1937",
+                "end": "1942",
+                "text": "kuntz",
+                "TYPE": "DOCTOR",
+                "comment": ""
+            },
+            {
+                "id": "P21",
+                "start": "1959",
+                "end": "1971",
+                "text": "Harlan Oneil",
+                "TYPE": "DOCTOR",
+                "comment": ""
+            },
+            {
+                "id": "P22",
+                "start": "1989",
+                "end": "2002",
+                "text": "Harold Nutter",
+                "TYPE": "DOCTOR",
+                "comment": ""
+            },
+            {
+                "id": "P23",
+                "start": "2014",
+                "end": "2036",
+                "text": "Doctors Hospital North",
+                "TYPE": "HOSPITAL",
+                "comment": ""
+            },
+            {
+                "id": "P24",
+                "start": "2042",
+                "end": "2053",
+                "text": "64 Bruce St",
+                "TYPE": "STREET",
+                "comment": ""
+            },
+            {
+                "id": "P25",
+                "start": "2059",
+                "end": "2063",
+                "text": "Omak",
+                "TYPE": "CITY",
+                "comment": ""
+            },
+            {
+                "id": "P26",
+                "start": "2065",
+                "end": "2067",
+                "text": "GA",
+                "TYPE": "STATE",
+                "comment": ""
+            },
+            {
+                "id": "P27",
+                "start": "2068",
+                "end": "2073",
+                "text": "72196",
+                "TYPE": "ZIP",
+                "comment": ""
+            },
+            {
+                "id": "P28",
+                "start": "2076",
+                "end": "2092",
+                "text": "Habib Valenzuela",
+                "TYPE": "DOCTOR",
+                "comment": ""
+            },
+            {
+                "id": "P29",
+                "start": "2105",
+                "end": "2113",
+                "text": "02/12/06",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P30",
+                "start": "2118",
+                "end": "2126",
+                "text": "02/17/06",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P31",
+                "start": "2131",
+                "end": "2139",
+                "text": "02/12/06",
+                "TYPE": "DATE",
+                "comment": ""
+            }
+        ]
+    },
+    "100-02.xml": {
+        "text": "\n\n\nRecord date: 2108-03-14\n\n                     CAMPBELL EMERGENCY DEPT VISIT\n\n \n\nVALDEZ,HARLAN,JR.   845-41-54-4                VISIT DATE: 03/14/08\n\nThe patient was seen and examined in the emergency department.  The \n\npatient was seen by the Emergency Medicine resident.  I have \n\ndiscussed the management with the resident.  I have also seen the \n\npatient primarily and reviewed the medical record.  This is a brief \n\naddendum to the medical record.\n\nHISTORY OF PRESENTING COMPLAINT:  Briefly, this is a 45-year-old \n\nmale who complains of several days of nausea, vomiting, and left \n\nlower quadrant discomfort.  He also describes intermittent chest \n\npain, which he has had for a number of months without significant \n\nchange.  He was sent in from his primary care doctor today with \n\nthis pain and was also noted to have some EKG changes.  The patient \n\nhas no chest pain at the time of evaluation in the emergency \n\ndepartment and no shortness of breath.\n\nREVIEW OF SYSTEMS:  As indicated and otherwise negative.\n\nPAST MEDICAL HISTORY:  As indicated in the chart.\n\nSOCIAL HISTORY AND FAMILY HISTORY:  As indicated in the chart.\n\nPHYSICAL EXAMINATION:  On physical examination, the patient is very \n\nwell-appearing, a smiling, very pleasant gentleman in no acute \n\ndistress.  The blood pressure is 119/90, the pulse 82, and the \n\ntemperature 97.9 degrees.  Normocephalic and atraumatic.  The chest \n\nis clear to auscultation.  The heart has a regular rate and rhythm. \n\nThe abdomen is soft.  He has left lower quadrant tenderness.  He \n\nalso, of note on cardiovascular examination, has a soft murmur \n\nwhich he says he has had since childhood.  The extremities are \n\nnormal.  The neurologic examination is non-focal. \n\nTHERAPY RENDERED/COURSE IN ED:  This is a gentleman with abdominal \n\npain who will receive a CAT scan to rule out diverticulitis.  He \n\nhas also had some non-specific ST changes on his EKG.  He is \n\npain-free at this time.  He does not describe a classic exertional \n\npattern for his chest pain, but given that he is a diabetic and \n\nwith EKG changes, he will also be admitted for rule out MI.  A CT \n\nis pending at the time of this dictation.\n\nDISPOSITION (including condition upon discharge):  As above.  The \n\npatient's condition is currently stable. \n\n___________________________________                    CK498/89095 \n\nJAY CARROLL, M.D.  JC72                                 D:03/14/08 \n\n                                                       T:03/14/08 \n\nDictated by:  JAY CARROLL, M.D.  JC72 \n\n ******** Not reviewed by Attending Physician ********\n\n\n\n\n\n",
+        "phi": [
+            {
+                "id": "P0",
+                "start": "16",
+                "end": "26",
+                "text": "2108-03-14",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P1",
+                "start": "49",
+                "end": "57",
+                "text": "CAMPBELL",
+                "TYPE": "HOSPITAL",
+                "comment": ""
+            },
+            {
+                "id": "P2",
+                "start": "83",
+                "end": "100",
+                "text": "VALDEZ,HARLAN,JR.",
+                "TYPE": "PATIENT",
+                "comment": ""
+            },
+            {
+                "id": "P3",
+                "start": "103",
+                "end": "114",
+                "text": "845-41-54-4",
+                "TYPE": "MEDICALRECORD",
+                "comment": ""
+            },
+            {
+                "id": "P4",
+                "start": "142",
+                "end": "150",
+                "text": "03/14/08",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P5",
+                "start": "509",
+                "end": "511",
+                "text": "45",
+                "TYPE": "AGE",
+                "comment": ""
+            },
+            {
+                "id": "P6",
+                "start": "2337",
+                "end": "2348",
+                "text": "CK498/89095",
+                "TYPE": "IDNUM",
+                "comment": ""
+            },
+            {
+                "id": "P7",
+                "start": "2351",
+                "end": "2362",
+                "text": "JAY CARROLL",
+                "TYPE": "DOCTOR",
+                "comment": ""
+            },
+            {
+                "id": "P8",
+                "start": "2370",
+                "end": "2374",
+                "text": "JC72",
+                "TYPE": "USERNAME",
+                "comment": ""
+            },
+            {
+                "id": "P9",
+                "start": "2409",
+                "end": "2417",
+                "text": "03/14/08",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P10",
+                "start": "2477",
+                "end": "2485",
+                "text": "03/14/08",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P11",
+                "start": "2502",
+                "end": "2513",
+                "text": "JAY CARROLL",
+                "TYPE": "DOCTOR",
+                "comment": ""
+            },
+            {
+                "id": "P12",
+                "start": "2521",
+                "end": "2525",
+                "text": "JC72",
+                "TYPE": "USERNAME",
+                "comment": ""
+            }
+        ]
+    },
+    "100-03.xml": {
+        "text": "\n\n\nRecord date: 2109-09-14\n\n \nSeptember 14, 2109 \n \nVicente Blair, M.D.  \nInternal Medical \nDoctors Hospital North \nOmak, Georgia 72196 \n \nRE: VALDEZ, Harlan \nDHN#: 7672624 \nDATE OF BIRTH: 11/09/2062 \nCURRENT CLINIC VISIT DATE: 09/14/2109 \n \nDear Vicente, \n \nThank you in advance for allowing me to share in the medical care of Mr. Harlan B. Valdez, a 46-year-old male patient with prior polysomnographic evidence of sleep disordered breathing, as well as a history of difficulty in sleep, reinitiation and maintenance and increased early morning awakenings, as well as mixed systemic medical conditions.  \n \nHISTORY OF PRESENT ILLNESS: As you already know, Mr. Valdez who demonstrates a history of difficulties of sleep reinitiation and maintenance, as well as increased early morning awakenings, has noted an exacerbation of these sleep difficulties, occurring in temporal association with his loss of his wife from pancreatic cancer last year. He is now placed in the unfortunate situation of being a single parent to a 15-year-old son and a 10-year-old daughter and describes a modification of his current employment duties of a set designer. In particular, Mr. Valdez describes undergoing on frequent international travelling which has bee markedly curtailed as he is tending to his family situation closer to home.  \n \nHe described a history of intermittent snoring symptomatology but is unaware of specific nocturnal respiratory pauses. He is unaware of a \"restless\" lower limb sensory complaints which may impact on his ability to initiate or reinitiate sleep. He denies a history of a \" night owl\" personality or circadian rhythm dysfunction which may have played a role with respect to nocturnal sleep disruptions or sleep difficulties.   \nHe denies a history of paroxysmal abnormal disturbances or associated narcoleptic symptoms.  \n \nMr. Valdez underwent an initial formal polysomnographic evaluation at the center for sleep diagnostics at Holy Cross on 11/26/05, during which time he was noted to demonstrate a respiratory disturbance index of 81/hour, particularly exacerbated in the supine position and characterized predominantly by hypopneas, with equal distribution during non-REM and stage REM sleep and with associated O2 desaturation Nadir of 88% The respiratory disturbances were predominantly obstructive or mixed hypopneas. In addition, loud snoring was noted.  \n \nThere was evidence of a sleep efficiency of 88% and a short sleep onset latency of 4 minutes. There was a predominance of \"light\" non-REM stages I-II sleep, and a concomitant inability to achieve significant \"slow-wave\" or stage REM sleep. There was also \"alpha intrusions and alpha delta sleep\" evident during the initial sleep study. In addition premature ventricular contractions were noted.  \n \nThe patient underwent a CPAP titration on 01/15/06, also at the Tenacre Foundation Nursing Home in Boxborough, during which time there was a marked reduction in the frequency of hypopneas (respiratory disturbance index equals 2/hour) with CPAP titrations between 4-6 cm. Sleep efficiency improved to 91%, a short sleep onset latency was also noted (3 minutes). There was once again an increased predominance of \"light\" non-REM stage I-II sleep, with concomitant inability to achieve sustained \"slow wave sleep\".  \n \nSince his initial trial of nocturnal CPAP titration (at 6 cm of water pressure) and with various CPAP mask modifications (including CPAP nasal face mask and a Mallinckrodt \"Breeze\" supportive head gear with \"nasal pillows\". The patient describes associated claustrophobic symptomatology, relative difficulties with sustained nocturnal home CPAP use, and difficulties with regards to CPAP to being and complications by the bulkiness of the CPAP machine in general. As a result, he has not utilized nocturnal CPAP therapy for a period of time, although he still maintains the CPAP equipment in his house.  \n \nOf particular note, and exacerbation of the past year, the patient demonstrates increased early morning awakenings (averaging 2-4 in number) with typical awakenings occurring approximately two hours after sleep initiation at 9:30 p.m. (the patient describes one awakening at 11:30 p.m. and the second awakening at 11:45 a.m., of unclear causative etiology). The patient then might awaken at 3 a.m. and be \"ready for the day\".  If he is able to reinitiate sleep thereafter, the patient may demonstrate additional two early morning awakenings after a final awakening at 6 a.m.  \n \nThe patient is noted to have a history of mixed systemic conditions including diabetes, coronary artery disease, depressive disorder, as well as a relatively stable gastrointestinal condition, with no upper GI evidence of gastroparesis.  \n \nMEDICATIONS:  \n1. Provigil 200 mg p.o. q. a.m. PRN.  \n2. Lithium.  \n3. Valproate.  \n4. Glucophage 850 mg t.i.d.  \n5. Humulin 15 units at night.  \n6. Folate.  \n7. Metoprolol.  \n8. Cardia.  \n9. Vitamin E.  \n10. Coated aspirin.  \n \nALLERGIES/ADVERSE REACTIONS: The patient describes an enhancement to suicidal tendencies in association with prior Prozac usage.   \nSOCIAL HISTORY: The patient denies active tobacco or alcoholic beverage usage. He has lost 15-20 pounds over the past several years. His current weight is 195 pounds. He is desirous of losing some additional weight with regards to more regular exercise, but his hectic social situation makes this somewhat difficult at the present time.  \n \nOn examination, the patient demonstrates a blood pressure of 146/88, (seated, left arm), respiratory rate 16.  \n \nHEENT EXAMINATION: Borderline small posterior oropharyngeal aperture, with slightly increased redundant tissue evident posteriorly and a slightly elongated uvula noted.  \n \nThe patient appears awake, alert, with speech clear and fluent and receptive language function essentially intact. He is presently wearing dental braces. No obvious cranial nerve deficits are appreciated. No focal, sensory, motor or neurologic deficits are noted. No significant appendicular dystaxias or dysmetrias are currently in evidence. The routine gait appears to be normal based, without evidence of significant gait dystaxias.  No current clinical ictal manifestations are present. No acute evidence of \"micro-sleeps\" are noted.  \n \nIMPRESSION:  \n1. Sleep stage/arrousal dysfunction (780.56): Manifested by subjective complaints of nonrestorative sleep, increased daytime fatigue and alternating hypersomnia, and recurrent polysomnographic evidence of \"lightened\" sleep pattern, with increased predominance of non-REM stages 1-2 sleep, and with the presence of \"alpha\" intrusions and \"alpha delta\" component to deeper sleep. These latter EEG findings have been described in association with subjective complaints of nonrestorative sleep, as well as clinical setting of chronic pain related complaints, depressive or anxiety disorder or intercurrent psychotropics agents used (but more usually associated with benzodiazepine or barbituate usage).  \n2. Sleep disordered breathing: As evidenced during prior polysomnographic evaluations, mostly of obstructive and or mixed hypopnea. The patient appears largely refractory to a trial of CPAP therapy, particularly in so far as he demonstrates associated claustrophobic symptoms in association with it's usage, despite relatively modest CPAP water pressures (6 cm). In addition, he has tried various nasal CPAP face mask, including the Mallinckrodt \"Breeze\" supportive head gear with \"nasal pillows\" and with limited success. One might consider repeating a polysomnographic evaluation in the future, and if so, utilizing a potential trial of BIPAP titration, which may help to improve claustrophobic symptoms, but the patient will still be left with the issues referable to \"tangled tubing at night\" and issues referable to nasal face mask usage, as noted above.  3. Relative difficulties in sleep reinitiation and maintenance:  The patient describes at least 2-4 early morning awakenings with difficulty in sleep reinitiation and maintenance, thereby compounding his current sleep problem. While there would logically be a relationship between his current sleep exacerbations and the recent death of his wife from pancreatic cancer last year, there may also be evidence of other nocturnal sleep disturbances for which a repeat polysomnographic evaluation; i.e. in particular looking for the presence of increased spontaneous arousals or limb associated arousals or periodic limb movements of sleep may be of a special clinical benefit.  \n \nPLAN:  \n1. In the short course, in so far as the patient describes himself as being exceedingly tired, and unable to perform the routine daily tasks of work and managing a family in the absence of his deceased wife, I have suggested initiation of PRN Zolpidem tartrate therapy, 5 mg tablets, utilizing one to two tablets p.o.  q. h.s. PRN for difficulties of sleep reinitiation and maintenance.  \n2. The patient is advised to take Zolpidem tartrate therapy no more than 2-3 times per week, in an effort to avoid any issues of physiologic dependency.  \n3. The patient was advised against potential adverse behavioral and or systemic side effects of Zolpidem tartrate therapy including  hypersomnolence, gastric upset, loose stools, diarrhea, and or cardiac palpitations.  \nPending his clinical response of his Zolpidem tartrate therapy, I then might seek direct treatment for his sleep disordered breathing issues which may include a repeat sleep study with potential trial of BIPAP therapy (in an effort to modify or attenuate claustrophobic symptoms). If he proves poorly responsive to trial of BIPAP therapy however, I might consider supplemental O2 therapy at night and, with this in mind a follow up sleep study should have associated end-tidal CO2 monitoring as well.  \n4. In the meantime, the patient was advised to contact the sleep disorders clinic for any acute sleep related concerns in the interim.  \n5. The patient may also benefit from nonpharmacologic approaches with regards to sleep reinitiation such as hypnotherapy, but I will hold off on these strategies pending follow up sleep disorders clinic evaluation (in approximately four months time).   \nOnce again, thank you again for allowing me to share in the medical care of Mr. Harlan Valdez. I hope this letter finds you well.  \n \nSincerely yours, \n \n \nYovani Vergara, M.D.  \nSleep Clinic \nDoctors Hospital North \n \n \ncc: Sleep Clinic DHN \n \nDD:09/14/2109 \nDT:09/15/2109 \nTX:24217     :1991 \n \n\n\n\n\n",
+        "phi": [
+            {
+                "id": "P0",
+                "start": "16",
+                "end": "26",
+                "text": "2109-09-14",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P1",
+                "start": "30",
+                "end": "48",
+                "text": "September 14, 2109",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P2",
+                "start": "52",
+                "end": "65",
+                "text": "Vicente Blair",
+                "TYPE": "DOCTOR",
+                "comment": ""
+            },
+            {
+                "id": "P3",
+                "start": "92",
+                "end": "114",
+                "text": "Doctors Hospital North",
+                "TYPE": "HOSPITAL",
+                "comment": ""
+            },
+            {
+                "id": "P4",
+                "start": "116",
+                "end": "120",
+                "text": "Omak",
+                "TYPE": "CITY",
+                "comment": ""
+            },
+            {
+                "id": "P5",
+                "start": "122",
+                "end": "129",
+                "text": "Georgia",
+                "TYPE": "STATE",
+                "comment": ""
+            },
+            {
+                "id": "P6",
+                "start": "130",
+                "end": "135",
+                "text": "72196",
+                "TYPE": "ZIP",
+                "comment": ""
+            },
+            {
+                "id": "P7",
+                "start": "143",
+                "end": "157",
+                "text": "VALDEZ, Harlan",
+                "TYPE": "PATIENT",
+                "comment": ""
+            },
+            {
+                "id": "P8",
+                "start": "159",
+                "end": "162",
+                "text": "DHN",
+                "TYPE": "HOSPITAL",
+                "comment": ""
+            },
+            {
+                "id": "P9",
+                "start": "165",
+                "end": "172",
+                "text": "7672624",
+                "TYPE": "MEDICALRECORD",
+                "comment": ""
+            },
+            {
+                "id": "P10",
+                "start": "189",
+                "end": "199",
+                "text": "11/09/2062",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P11",
+                "start": "228",
+                "end": "238",
+                "text": "09/14/2109",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P12",
+                "start": "247",
+                "end": "254",
+                "text": "Vicente",
+                "TYPE": "DOCTOR",
+                "comment": ""
+            },
+            {
+                "id": "P13",
+                "start": "332",
+                "end": "348",
+                "text": "Harlan B. Valdez",
+                "TYPE": "PATIENT",
+                "comment": ""
+            },
+            {
+                "id": "P14",
+                "start": "352",
+                "end": "354",
+                "text": "46",
+                "TYPE": "AGE",
+                "comment": ""
+            },
+            {
+                "id": "P15",
+                "start": "662",
+                "end": "668",
+                "text": "Valdez",
+                "TYPE": "PATIENT",
+                "comment": ""
+            },
+            {
+                "id": "P16",
+                "start": "1023",
+                "end": "1025",
+                "text": "15",
+                "TYPE": "AGE",
+                "comment": ""
+            },
+            {
+                "id": "P17",
+                "start": "1045",
+                "end": "1047",
+                "text": "10",
+                "TYPE": "AGE",
+                "comment": ""
+            },
+            {
+                "id": "P18",
+                "start": "1133",
+                "end": "1145",
+                "text": "set designer",
+                "TYPE": "PROFESSION",
+                "comment": ""
+            },
+            {
+                "id": "P19",
+                "start": "1166",
+                "end": "1172",
+                "text": "Valdez",
+                "TYPE": "PATIENT",
+                "comment": ""
+            },
+            {
+                "id": "P20",
+                "start": "1850",
+                "end": "1856",
+                "text": "Valdez",
+                "TYPE": "PATIENT",
+                "comment": ""
+            },
+            {
+                "id": "P21",
+                "start": "1952",
+                "end": "1962",
+                "text": "Holy Cross",
+                "TYPE": "HOSPITAL",
+                "comment": ""
+            },
+            {
+                "id": "P22",
+                "start": "1966",
+                "end": "1974",
+                "text": "11/26/05",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P23",
+                "start": "2830",
+                "end": "2838",
+                "text": "01/15/06",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P24",
+                "start": "2852",
+                "end": "2883",
+                "text": "Tenacre Foundation Nursing Home",
+                "TYPE": "HOSPITAL",
+                "comment": ""
+            },
+            {
+                "id": "P25",
+                "start": "2887",
+                "end": "2897",
+                "text": "Boxborough",
+                "TYPE": "CITY",
+                "comment": ""
+            },
+            {
+                "id": "P26",
+                "start": "10261",
+                "end": "10274",
+                "text": "Harlan Valdez",
+                "TYPE": "PATIENT",
+                "comment": ""
+            },
+            {
+                "id": "P27",
+                "start": "10337",
+                "end": "10351",
+                "text": "Yovani Vergara",
+                "TYPE": "DOCTOR",
+                "comment": ""
+            },
+            {
+                "id": "P29",
+                "start": "10374",
+                "end": "10396",
+                "text": "Doctors Hospital North",
+                "TYPE": "HOSPITAL",
+                "comment": ""
+            },
+            {
+                "id": "P31",
+                "start": "10419",
+                "end": "10422",
+                "text": "DHN",
+                "TYPE": "HOSPITAL",
+                "comment": ""
+            },
+            {
+                "id": "P32",
+                "start": "10429",
+                "end": "10439",
+                "text": "09/14/2109",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P33",
+                "start": "10444",
+                "end": "10454",
+                "text": "09/15/2109",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P34",
+                "start": "10456",
+                "end": "10474",
+                "text": "TX:24217     :1991",
+                "TYPE": "IDNUM",
+                "comment": ""
+            }
+        ]
+    },
+    "100-04.xml": {
+        "text": "\n\n\nRecord date: 2111-10-10\n\n    \n\n\n\nCCU JAR Transfer Note\n\nAdmission Date: 10/8/11\n\nTransfer: 10/10/11\n\nPatient Name: Valdez, Harlan \n\nMRN#: 7672624\n\nCardiologist:  Dr. Nutter\n\nPCP:  Vicente Barker\n\n\n\nCC: Chest Pain    Cath    VF arrest    RCA stenting\n\n\n\nHistory of Present Illness (obtained on admission):  Pt is a 48 yo male with h/o DMII, hypercholesterolemia, Bipolar d/o, and depression who began to have sub-sternal day prior to admission in car and pre-syncope + profound weakness.  This CP was minimal, but the weakness made him pull over.  He had a repeat of these symptoms day of admission.  His EKG c/w 2/2107 showed flattened T-wave in V2 and TWI in V3 and flattened T-waves in I, aVL. His trop was negative, but MB index was elevated.  Due to T-wave flattening, history and elevated index it was decided to start on heparin and ASA and take to cath lab.  \n\n\n\nCath showed right dominant system with prox Cx 40%, LAD clear, RCA prox 70-80% lesion and ostial PDA 90%.  During final dye injection, pt had VF arrest and 2 shocks.  Pt regained puls and was in AF (new) with RVR. Pt was started on amio.  Pt then began to experience discomfort in the RVR and it was decided to intervene.  POBA was done to ostial PDA.  A first no-eluting stent was placed in prox RCA and pt had dissection and thus 2cd stent was placed.  On admission to CCU, pt still in AF with RVR (120's).  He was on amio drip, BB, loaded on plavix, ASA, lipitor, integrilin and was placed on Avandia study.  His complaint of some mild chest pain (not same as anginal pain day before) thought to be from defibrillation.\n\n\n\nPast Medical History: DMII, hyperchol, bipolar,HTN, depression (s/p ECT)\n\n \n\nMedications on admission: ASA, Lipitor 20, lopressor 50 bid, folate, norvasc 5 qd; lithium, 300 bid; depakote 500 bid; sonata 10 mg qhs, doxylamine 25 qhs, mirtazapine 45 qd \n\n\n\nMeds on Transfer: please see green sheets\n\n \n\nMedications: ASA, Lipitor 20, lopressor 50 bid, folate, norvasc 5 qd; lithium, 300 bid; depakote 500 bid; sonata 10 mg qhs, doxylamine 25 qhs, mirtazapine 45 qd \n\n\n\nAllergies:  NKDA\n\n\n\nFamily History:  family h/o CAD\n\n\n\nSocial History: No EtOH, no tob, no illicits\n\n\n\nReview of Systems:  per HPI\n\n\n\nAllergies:  NKDA\n\n\n\nFamily History:  family h/o CAD\n\n\n\nSocial History: No EtOH, no tob, no illicits\n\n\n\nReview of Systems:  per HPI\n\n\n\nCCU course + plan:\n\n1)\tCards\n\na.\tRhythm - on night of admission patient was started on an esmolol drip as well as amio bloused and rhythm converted to NSR.  Esmolol drip as well as amio was stopped and BB was escalated and patient has remained in NSR.\n\ni.\tRamp up lopressor as tolerated by BP\n\nb.\tPump - patient has remained euvolemic and had a Echo with EF 84% and aortic stenosis\n\nc.\tIschemia - was stented x 2 to the prox RCA lesion and was on integrilin x 24hrs prior.  He was started on plavix.\n\ni.\tCont plavix, lopressor, lisinopril, lipitor, ASA\n\n\n\n2)\tPsych - patient with long history of bipolar disorder + depression.  He was on depakote, lithium and remeron as outpt.  He was seen by psychiatry here.\n\na.\tContinue depakote and lithium (had subthereapeutic level that psych thought was likely  due to non-compliance.\n\nb.\tContinue remeron qhs\n\nc.\tF/u TSH\n\n\n\n3)\tDM - Blood sugars were originally elevated as amio drip he was originally on for AF contained dextrose. He has remained on NPH with RISS.\n\na.\tNPH, RISS\n\n\n\n4)\tProphy - Fragmin nexium\n\n\n\n\n\nLABS + PE - see today's progress note\n\n\n\n\n\nEKG - AFIB with RVR, diffuse t-wave flattening\n\n\n\nImpression:  48 yo male with h/o DMII, hypercholesterolemia, Bipolar d/o, and depression and CAD p/w CP and pre-sycope found to have RCA prox 70-80% lesion and ostial PDA 90% (stents to RCA and POBA to PDA).  Cath c/b VF arrest after dye load and resultant afib with RVR.\n\n\n\nPlan:  \n\nAs outlined in CCU course.\n\n\n\n\n\nVictor Shepard MD\n\n39693\n\n   \n\n\n\n",
+        "phi": [
+            {
+                "id": "P0",
+                "start": "16",
+                "end": "26",
+                "text": "2111-10-10",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P1",
+                "start": "75",
+                "end": "82",
+                "text": "10/8/11",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P2",
+                "start": "94",
+                "end": "102",
+                "text": "10/10/11",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P3",
+                "start": "118",
+                "end": "132",
+                "text": "Valdez, Harlan",
+                "TYPE": "PATIENT",
+                "comment": ""
+            },
+            {
+                "id": "P4",
+                "start": "141",
+                "end": "148",
+                "text": "7672624",
+                "TYPE": "MEDICALRECORD",
+                "comment": ""
+            },
+            {
+                "id": "P5",
+                "start": "169",
+                "end": "175",
+                "text": "Nutter",
+                "TYPE": "DOCTOR",
+                "comment": ""
+            },
+            {
+                "id": "P6",
+                "start": "183",
+                "end": "197",
+                "text": "Vicente Barker",
+                "TYPE": "DOCTOR",
+                "comment": ""
+            },
+            {
+                "id": "P7",
+                "start": "317",
+                "end": "319",
+                "text": "48",
+                "TYPE": "AGE",
+                "comment": ""
+            },
+            {
+                "id": "P8",
+                "start": "615",
+                "end": "621",
+                "text": "2/2107",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P9",
+                "start": "3495",
+                "end": "3497",
+                "text": "48",
+                "TYPE": "AGE",
+                "comment": ""
+            },
+            {
+                "id": "P10",
+                "start": "3798",
+                "end": "3812",
+                "text": "Victor Shepard",
+                "TYPE": "DOCTOR",
+                "comment": ""
+            },
+            {
+                "id": "P11",
+                "start": "3817",
+                "end": "3822",
+                "text": "39693",
+                "TYPE": "PHONE",
+                "comment": ""
+            }
+        ]
+    },
+    "100-05.xml": {
+        "text": "\n\n\nRecord date: 2111-12-14\n\n \n\n\n\nNEUROLOGY CMF ADMISSION NOTE\n\n\n\nName: \tVALDEZ, Harlan\n\nDOB:\t11-9-2062\n\nMR#: \t7672624\n\nDate:\t12/13/11, 9:30pm\n\n\n\nFOR DETAILS, PLEASE SEE AALIYAH IRAHETA'S NOTE\n\n\n\nID/CC: 49yoRHM w/ PMH signif for CAD, Afib, DM, Bipolar, who presents w/ RLE weakness/decreased sensation x 24hrs\n\n\n\nHPI: 49yoRHM w/ PMH signif for CAD, Afib, DM, Bipolar, who was in USOH until 10d ago, when had weakness in his L arm.  Thought this was 2/2 sleeping on it.  Involved whole arm from shoulder down.  Was still doing his ADL's but felt like the arm was slightly weaker, took 4-5 days to get back to normal.  \n\n\n\nThen, 12/12/11, was eating dinner w/ a friend, got up to go to BR, found he had RLE weakness/stiffness.  Noticed it was hard to climb stairs.  Went to sleep    woke up at 2am    nearly fell 2/2 weakness in his leg.  In addition, has sensory loss in RLE, esp foot - felt    cold and dead.     The sensory loss was worst distally, but extended up to his thigh.  Never had trouble speaking or understanding others, did not have a facial droop, no problems w/ his RUE.  Stayed in bed until am, when he called his PCP, who told him to come to ED.  \n\n\n\nOf note, in Oct-Nov 2111, had cardiac cath x 2.  Had NSTEMI on Oct 8, 2111    taken to cardiac cath    cath showed significant RCA disease and 40% prox LCx    c/b Vfib needing defib    stent placed for stenotic RCA lesion, c/b dissection needing 2nd stent placed.  Post cath had Afib requiring amiodarone.  Then had subsequent cath Nov 1 after an episode of CP, stents patent, other vessels stable.  After his inpt cardiac hospitalization, was admitted to psych for 1 wk for suicidality/depression.  \n\n\n\nPreviously, in spring 2110, had L eye visual disturbance    nearly blind    went to GHIC where was dx'ed w/ retinal venous occlusion, treated w/ cortisone and laser surgery, w/ mild improvement in vision (now blurred in that eye).\n\n\n\nNo HA, no tinnitus, no vertigo.  No blurry vision except in L eye from venous occlusion, no diplopia.  No problems w/ speech.\n\n\n\nPMH: \n\nDM - insulin x years \n\nCAD s/p NSTEMI as above\n\nBipolar disorder - on lithium and depakote, has required inpt hospitalization and ECT in past\n\nAfib as above\n\nHyperchol\n\n\n\nMEDS: \n\nInsulin 70/30  22 units bid\n\nAsa 81\n\nPlavix 75\n\nLithium ? dose (600 bid on prior note)\n\nNorvasc ? dose (5 on prior note)\n\nMirtazapine ? dose (45 on prior note)\n\nNaltrexone \n\nNexium (20 on prior note)\n\nLipitor (40 on prior note)\n\nCozaar ? dose\n\nDepakote ? dose (500 bid on prior note)\n\n(Lopressor 75 po q8 per prior notes)\n\nFolate\n\n\t    \n\nALL: Lisinopril    cough\n\n\n\nSH:  \tTob:\toccas cigar\tEtOH: 0 (used to have EtOH problems)       IVDA:      0\n\n\tLives w/ 17yo son.  Has 13yo daughter who lives w/ his sister.  Widower x 3yrs.  \n\n\n\nFH:\tMom w/ PM at age 50, died of MI at 71.  Father w/ EtOH, HTN.  Sister w/ 4 miscarriages.  \n\n\n\nVS:  \t129/80\t\t89\t20\t97% on RA\n\nGeneral:\tWNWD, NAD\n\nHEENT:\tNC/AT.  No scleral icterus.  MMM.  OP benign.  \n\nNeck:\tSupple, no carotid bruits.  \n\nCV:\t\tRRR S1, S2.  II-III/VI sys murmur best at RUSB rad to clav and neck. ? second murmur at axilla systolic as well vs. Galiverdin's sign.\n\nResp:\tCTAB.  No r/w/r\n\nAbd:\t\t+BS.    Soft/NT/ND.\n\nExt:\t\tNo C/C/E, DP 2+ bilat.  \n\nSkin:\t\tNo rashes, intact.  \n\n\n\nNeuro:\n\nMS:\tConversationally intact.\n\n\n\nCN: \tII,III- Pupils 5mm, round , reactive to light to 3mm; visual field full to confrontation; optic discs sharp\n\nIII,IV,VI-extraocular movements full, w/o nystagmus, L eyelid is slightly weaker longstanding since L eye problem\n\nV--sensation to LT and pin-prick intact bilaterally\n\nVII-facial expression muscles symmetric without weakness\n\nIX,X--palate elevates symmetrically\n\nXI--SCMs 5/5\n\nXII--tongue protrudes midline\n\n\n\nMotor:\tnormal bulk and tone; no tremor. No pronator drift. \n\n\n\n\tDelt\tElF\tElE\tWrE\tFE\tIO\tHpF\tKnE\tKnF\tDors\tPlan\tEHL\t\n\nL\t5\t5\t5\t5\t5\t5\t5\t5\t5\t5\t5\t5\t\n\nR\t5\t5\t5\t5\t5\t5\t5\t5\t5\t4+\t5\t5\t\n\n\n\nSensory: \tendorses a difference in sensation to LT and temp RLE vs. LLE.  Zone of difference (feels colder) is most pronounced R lateral calf area, not a particular dermatomal distribution, also w/ toe position sense mildly decreased R great toe.  Mild vibratory loss to ankles bilat symmetrical.   \n\nReflex:\t\n\n\tBic\tTric\tBra\tHoff\tPat\tAnk\tToes\t\n\nL\t2\t2\t2\tNeg\t2\t2\tDown\t\n\nR\t2+\t2\t2+\tNeg\t3\t2\tUp?\t\n\n\n\nCoord:\tno dysmetria on finger-nose-finger or heel-knee-shin\n\nGait:\tfavors L leg slightly when walking\n\n\n\nRomberg:  normal \n\n\n\nLABS/STUDIES:\n\nChemistry\n\n  Lytes/Renal/Glucose\n\n    Sodium                 136   135-145 mmol/L     12/13/11 18:35     133(L) 12/13/11 09:43\n\n    Potassium              3.6   3.4-4.8 mmol/L     12/13/11 18:35     4.9(H) 10/31/11 12:55\n\n    Chloride               109H  100-108 mmol/L     12/13/11 18:35     109(H) 12/13/11 18:35\n\n    Carbon Dioxide        27.0   23.0-31.9 mmol/L   12/13/11 18:35    22.9(L) 12/10/11 20:33\n\n    BUN                     11   8-25 mg/dl         12/13/11 18:35\n\n    Creatinine             1.0   0.6-1.5 mg/dl      12/13/11 18:35\n\n    Glucose                216H  70-110 mg/dl       12/13/11 18:35     216(H) 12/13/11 18:35\n\n  General Chemistries\n\n    Calcium                9.4   8.5-10.5 mg/dl     12/13/11 10:40     8.3(L) 10/10/11 06:15\n\n    Phosphorus             3.2   2.6-4.5 mg/dl      12/13/11 10:40     2.4(L) 11/02/11 15:10\n\n    Magnesium              1.6   1.4-2.0 meq/L      12/13/11 10:40\n\n  Lipid Tests\n\n    Cholesterol            173   mg/dl              12/10/11 20:33     228(H) 09/03/07 10:46\n\n    Triglycerides          547H  40-150 mg/dl       12/10/11 20:33     547(H) 12/10/11 20:33\n\n    HDL Cholesterol         25L  35-100 mg/dl       12/10/11 20:33      25(L) 12/10/11 20:33\n\n    LDL Cholesterol         --   mg/dl              12/10/11 20:33\n\n    Chol/HDL Ratio         6.9                      12/10/11 20:33\n\n  Chemistry Miscellaneous\n\n    Calc Mean Bld...       254   mg%                12/12/11 10:34\n\n    Chemistry Com...  see detail                    05/09/08 21:58\n\n    Hemoglobin A1C       10.20H  3.80-6.40 %        12/12/11 10:34   10.20(H) 12/12/11 10:34\n\nHematology\n\n  Complete Blood Count\n\n    WBC                    6.1   4.5-11.0 th/cmm    12/13/11 09:51    11.1(H) 10/08/11 20:16\n\n    RBC                   4.51   4.50-5.90 mil/cm   12/13/11 09:51    4.37(L) 11/03/11 11:15\n\n    Hgb                   13.7   13.5-17.5 gm/dl    12/13/11 09:51    13.1(L) 11/01/11 04:52\n\n    HCT                   39.4L  41.0-53.0 %        12/13/11 09:51    39.4(L) 12/13/11 09:51\n\n    MCV                     87   80-100 fl          12/13/11 09:51\n\n    MCH                   30.4   26.0-34.0 pg/rbc   12/13/11 09:51\n\n    MCHC                  34.9   31.0-37.0 g/dl     12/13/11 09:51\n\n    PLT                    210   150-350 th/cumm    12/13/11 09:51\n\n    RDW                   13.5   11.5-14.5 %        12/13/11 09:51\n\n  Other Hematology\n\n    ESR                     14   0-17 mm/hr         12/13/11 19:51\n\nUrinalysis\tNegative\n\nTherapeutic Drugs\n\n  Therapeutic Drug Monitoring\n\n    Lithium              <0.10L  0.50-1.50 mmol/L   12/13/11 20:40   <0.10(L) 12/13/11 20:40\n\n\n\nMRI brain: Acute/subacute infarcts (DWI bright/ADC dark/FLAIR bright) in L cerebellum (punctate) and R precentral gyrus (small elliptical area).  \n\n\n\nCT-A head/neck: has aberrant origin of R vert from CCA, both ACA's come off of L carotid, also w/ bilateral fetal PCA's and likely congenitally small vertebrobasilar vessels.  No significant focal stenoses or atheromatous calcifications.  \n\n\n\nEKG: pending\n\n\n\nMRI L/S spine: negative\n\n\n\nIMPRESSION:\n\n49yoRHM w/ PMH signif for CAD, DM, Bipolar disorder, afib, s/p recent cardiac cath who presents w/ LUE weakness 10d prior to admission resolving after 4-5 days, and RLE weakness?/sensory deficit? Imaging reveals R precentral gyrus small infarct, L cerebellar infarct, no significant vessel stenoses.  Neuro exam w/ brisker reflexes on R, equivocal RLE weakness, R sensory sx, ? R upgoing toe.  Clinical picture and imaging are not consistent.  Unclear if pt is a poor historian and current sx are non-objective sensory findings and meaningful event was LUE weakness 4-5d ago.\n\nNEURO: stroke w/u including TTE/Holter, lipids/lipoprotein/homocysteine.  \n\n--Will also send hypercoag w/u (including hypercoag panel, PT20210, Factor V Leiden, APLA, lupus anticoagulant) given hx of retinal venous thrombus and young age.\n\n--Will also send BCx2 given recent cardiac cath, although ESR wnl reassuring re ? of endocarditis.\n\n--Will check A1c re ? of adequate DM control.\n\n--Given psych hx, will check tox screen and LFT's.\n\n--Unclear if afib was only in context of post-cath, post Vfib.  Will look for LAE, holter abnl.  Could make a case to anti-coagulate regardless as has had documented afib.  \n\nCV: hold anti-htn meds now.  Continue lipitor at outpt dose.  Allow SBP up to 180.\n\nPSYCH: continue w/ depakote and lithium.  Mood is ok now, but will need to be monitored.\n\nFEN: no IVF, ada 1800 low chol/low fat diet.  \n\nENDO: NPH 20 bid for now, titrate up as needed, RISS.  Checking A1c.\n\nPPX: put on sc fragmin, nexium.  Pneumoboots.  \n\n\n\nAnna V. Wendy-Bird, MD\n\nHPC Neuro Resident #48600\n\nCase discussed w/ Vern Snow, senior resident.  \n\n\n\n\n\n\n\n      \n\n\n\n",
+        "phi": [
+            {
+                "id": "P0",
+                "start": "16",
+                "end": "26",
+                "text": "2111-12-14",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P1",
+                "start": "72",
+                "end": "86",
+                "text": "VALDEZ, Harlan",
+                "TYPE": "PATIENT",
+                "comment": ""
+            },
+            {
+                "id": "P2",
+                "start": "93",
+                "end": "102",
+                "text": "11-9-2062",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P3",
+                "start": "110",
+                "end": "117",
+                "text": "7672624",
+                "TYPE": "MEDICALRECORD",
+                "comment": ""
+            },
+            {
+                "id": "P4",
+                "start": "125",
+                "end": "133",
+                "text": "12/13/11",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P5",
+                "start": "169",
+                "end": "184",
+                "text": "AALIYAH IRAHETA",
+                "TYPE": "DOCTOR",
+                "comment": ""
+            },
+            {
+                "id": "P6",
+                "start": "202",
+                "end": "204",
+                "text": "49",
+                "TYPE": "AGE",
+                "comment": ""
+            },
+            {
+                "id": "P7",
+                "start": "317",
+                "end": "319",
+                "text": "49",
+                "TYPE": "AGE",
+                "comment": ""
+            },
+            {
+                "id": "P8",
+                "start": "626",
+                "end": "634",
+                "text": "12/12/11",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P9",
+                "start": "1179",
+                "end": "1182",
+                "text": "Oct",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P10",
+                "start": "1183",
+                "end": "1191",
+                "text": "Nov 2111",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P11",
+                "start": "1230",
+                "end": "1241",
+                "text": "Oct 8, 2111",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P12",
+                "start": "1686",
+                "end": "1697",
+                "text": "spring 2110",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P13",
+                "start": "1755",
+                "end": "1759",
+                "text": "GHIC",
+                "TYPE": "HOSPITAL",
+                "comment": ""
+            },
+            {
+                "id": "P14",
+                "start": "2676",
+                "end": "2678",
+                "text": "17",
+                "TYPE": "AGE",
+                "comment": ""
+            },
+            {
+                "id": "P15",
+                "start": "2691",
+                "end": "2693",
+                "text": "13",
+                "TYPE": "AGE",
+                "comment": ""
+            },
+            {
+                "id": "P16",
+                "start": "2773",
+                "end": "2775",
+                "text": "50",
+                "TYPE": "AGE",
+                "comment": ""
+            },
+            {
+                "id": "P17",
+                "start": "2791",
+                "end": "2793",
+                "text": "71",
+                "TYPE": "AGE",
+                "comment": ""
+            },
+            {
+                "id": "P18",
+                "start": "4505",
+                "end": "4513",
+                "text": "12/13/11",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P19",
+                "start": "4531",
+                "end": "4539",
+                "text": "12/13/11",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P20",
+                "start": "4599",
+                "end": "4607",
+                "text": "12/13/11",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P21",
+                "start": "4625",
+                "end": "4633",
+                "text": "10/31/11",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P22",
+                "start": "4693",
+                "end": "4701",
+                "text": "12/13/11",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P23",
+                "start": "4719",
+                "end": "4727",
+                "text": "12/13/11",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P24",
+                "start": "4787",
+                "end": "4795",
+                "text": "12/13/11",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P25",
+                "start": "4813",
+                "end": "4821",
+                "text": "12/10/11",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P26",
+                "start": "4881",
+                "end": "4889",
+                "text": "12/13/11",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P27",
+                "start": "4949",
+                "end": "4957",
+                "text": "12/13/11",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P28",
+                "start": "5017",
+                "end": "5025",
+                "text": "12/13/11",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P29",
+                "start": "5043",
+                "end": "5051",
+                "text": "12/13/11",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P30",
+                "start": "5134",
+                "end": "5142",
+                "text": "12/13/11",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P31",
+                "start": "5160",
+                "end": "5168",
+                "text": "10/10/11",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P32",
+                "start": "5228",
+                "end": "5236",
+                "text": "12/13/11",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P33",
+                "start": "5254",
+                "end": "5262",
+                "text": "11/02/11",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P34",
+                "start": "5322",
+                "end": "5330",
+                "text": "12/13/11",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P35",
+                "start": "5405",
+                "end": "5413",
+                "text": "12/10/11",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P36",
+                "start": "5431",
+                "end": "5439",
+                "text": "09/03/07",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P37",
+                "start": "5499",
+                "end": "5507",
+                "text": "12/10/11",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P38",
+                "start": "5525",
+                "end": "5533",
+                "text": "12/10/11",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P39",
+                "start": "5593",
+                "end": "5601",
+                "text": "12/10/11",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P40",
+                "start": "5619",
+                "end": "5627",
+                "text": "12/10/11",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P41",
+                "start": "5687",
+                "end": "5695",
+                "text": "12/10/11",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P42",
+                "start": "5755",
+                "end": "5763",
+                "text": "12/10/11",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P43",
+                "start": "5850",
+                "end": "5858",
+                "text": "12/12/11",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P44",
+                "start": "5918",
+                "end": "5926",
+                "text": "05/09/08",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P45",
+                "start": "5986",
+                "end": "5994",
+                "text": "12/12/11",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P46",
+                "start": "6012",
+                "end": "6020",
+                "text": "12/12/11",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P47",
+                "start": "6116",
+                "end": "6124",
+                "text": "12/13/11",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P48",
+                "start": "6142",
+                "end": "6150",
+                "text": "10/08/11",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P49",
+                "start": "6210",
+                "end": "6218",
+                "text": "12/13/11",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P50",
+                "start": "6236",
+                "end": "6244",
+                "text": "11/03/11",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P51",
+                "start": "6304",
+                "end": "6312",
+                "text": "12/13/11",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P52",
+                "start": "6330",
+                "end": "6338",
+                "text": "11/01/11",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P53",
+                "start": "6398",
+                "end": "6406",
+                "text": "12/13/11",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P54",
+                "start": "6424",
+                "end": "6432",
+                "text": "12/13/11",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P55",
+                "start": "6492",
+                "end": "6500",
+                "text": "12/13/11",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P56",
+                "start": "6560",
+                "end": "6568",
+                "text": "12/13/11",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P57",
+                "start": "6628",
+                "end": "6636",
+                "text": "12/13/11",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P58",
+                "start": "6696",
+                "end": "6704",
+                "text": "12/13/11",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P59",
+                "start": "6764",
+                "end": "6772",
+                "text": "12/13/11",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P60",
+                "start": "6852",
+                "end": "6860",
+                "text": "12/13/11",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P61",
+                "start": "6991",
+                "end": "6999",
+                "text": "12/13/11",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P62",
+                "start": "7017",
+                "end": "7025",
+                "text": "12/13/11",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P63",
+                "start": "7484",
+                "end": "7486",
+                "text": "49",
+                "TYPE": "AGE",
+                "comment": ""
+            },
+            {
+                "id": "P64",
+                "start": "9018",
+                "end": "9036",
+                "text": "Anna V. Wendy-Bird",
+                "TYPE": "DOCTOR",
+                "comment": ""
+            },
+            {
+                "id": "P65",
+                "start": "9042",
+                "end": "9045",
+                "text": "HPC",
+                "TYPE": "HOSPITAL",
+                "comment": ""
+            },
+            {
+                "id": "P66",
+                "start": "9062",
+                "end": "9067",
+                "text": "48600",
+                "TYPE": "PHONE",
+                "comment": ""
+            },
+            {
+                "id": "P67",
+                "start": "9087",
+                "end": "9096",
+                "text": "Vern Snow",
+                "TYPE": "DOCTOR",
+                "comment": ""
+            }
+        ]
+    },
+    "101-01.xml": {
+        "text": "\n\n\nRecord date: 2079-05-12\n\n\n\n\n\nMERCY CARE CENTER\nMercy Internal Medicine Associates\n8 Newburgh Street\nTerrell, AR 72985\n\nRussell, Donna\n10418061\n05/12/79\n\n\nMs. Russell comes in for further evaluation.  She has been in Rhode Island for \nsix months.  Her complaint is that she has heaviness in the chest.  She \ndoes not have any palpitations.  She does not note that this is \nassociated with exertion.  She does have diaphoresis associated with it.  \nShe does not have any shortness of breath.  This heaviness has been in \nher chest on and off for the last six weeks.  She is quite concerned.\n\nShe has a history of hypothyroidism and hypertension.  She also has \nhyperlipidemia and is being treated with Lipitor.  Her health \nmaintenance has been in order.  She has just had a hysterectomy.  She \nneeds to have a follow-up mammogram done.  However, today I am most \nconcerned about her chest heaviness.\n\nPHYSICAL EXAMINATION:  Her blood pressure is 130/80, respiratory rate is \n20 and pulse is 68.  Neck is supple.  There is no lymphadenopathy.  \nChest is clear to both percussion and auscultation.  Cardiac exam is \nregularly regular with no murmurs, gallops or rubs.  Abdomen is soft and \nnontender.  There is no hepatosplenomegaly.  Extremities are clear of \ncyanosis, clubbing and edema.\n\nLABORATORY DATA:  Her sodium is 145, electrolytes are all otherwise \nwithin normal limits.  TSH is 2.0.  LFTs are pending at this time.  We \nsent her for an electrocardiogram, which showed normal sinus rhythm with \nnonspecific ST-T wave changes.  We also sent her for an exercise \ntolerance test with preliminary reports showing that she went to a \nmaximum heart rate of 108, she was on the protocol for 6 minutes 50 \nseconds.  She had no evidence of ischemia.\n\nASSESSMENT AND PLAN:\n1.\tChest heaviness.  I am not sure what is causing this.  She may have a \nprimary pulmonary problem.  She will be following up with us in one \nweek.  It is heartening to see that she does not have an abnormal \nexercise tolerance test.\n2.\tHypothyroidism, well controlled at the present time.  Continue same \ndose of Synthroid.\n3.\tHypertension, well controlled presently.\n4.\tHyperlipidemia.  We will recheck this on her next visit.\n\n\n\nRE:  Russell, Donna\nMRN #:  10418061\nMay 12, 2079\nPage 2\n\n\nWe will also need to schedule a follow-up mammogram.\n\n\n\n_______________________________\nQuinn Rutledge, M.D.\n\nQR/QR5\n957307.doc\nDD:  \n05/25/2079\nDT:  05/27/2079\nDV:  05/12/2079\n\n\n\n\n\n\n\n\n",
+        "phi": [
+            {
+                "id": "P0",
+                "start": "16",
+                "end": "26",
+                "text": "2079-05-12",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P1",
+                "start": "32",
+                "end": "49",
+                "text": "MERCY CARE CENTER",
+                "TYPE": "HOSPITAL",
+                "comment": ""
+            },
+            {
+                "id": "P2",
+                "start": "50",
+                "end": "55",
+                "text": "Mercy",
+                "TYPE": "HOSPITAL",
+                "comment": ""
+            },
+            {
+                "id": "P3",
+                "start": "85",
+                "end": "102",
+                "text": "8 Newburgh Street",
+                "TYPE": "STREET",
+                "comment": ""
+            },
+            {
+                "id": "P4",
+                "start": "103",
+                "end": "110",
+                "text": "Terrell",
+                "TYPE": "CITY",
+                "comment": ""
+            },
+            {
+                "id": "P5",
+                "start": "112",
+                "end": "114",
+                "text": "AR",
+                "TYPE": "STATE",
+                "comment": ""
+            },
+            {
+                "id": "P6",
+                "start": "115",
+                "end": "120",
+                "text": "72985",
+                "TYPE": "ZIP",
+                "comment": ""
+            },
+            {
+                "id": "P7",
+                "start": "122",
+                "end": "136",
+                "text": "Russell, Donna",
+                "TYPE": "PATIENT",
+                "comment": ""
+            },
+            {
+                "id": "P8",
+                "start": "137",
+                "end": "145",
+                "text": "10418061",
+                "TYPE": "MEDICALRECORD",
+                "comment": ""
+            },
+            {
+                "id": "P9",
+                "start": "146",
+                "end": "154",
+                "text": "05/12/79",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P10",
+                "start": "161",
+                "end": "168",
+                "text": "Russell",
+                "TYPE": "PATIENT",
+                "comment": ""
+            },
+            {
+                "id": "P11",
+                "start": "219",
+                "end": "231",
+                "text": "Rhode Island",
+                "TYPE": "STATE",
+                "comment": ""
+            },
+            {
+                "id": "P12",
+                "start": "2213",
+                "end": "2227",
+                "text": "Russell, Donna",
+                "TYPE": "PATIENT",
+                "comment": ""
+            },
+            {
+                "id": "P13",
+                "start": "2236",
+                "end": "2244",
+                "text": "10418061",
+                "TYPE": "MEDICALRECORD",
+                "comment": ""
+            },
+            {
+                "id": "P14",
+                "start": "2245",
+                "end": "2257",
+                "text": "May 12, 2079",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P15",
+                "start": "2355",
+                "end": "2369",
+                "text": "Quinn Rutledge",
+                "TYPE": "DOCTOR",
+                "comment": ""
+            },
+            {
+                "id": "P16",
+                "start": "2377",
+                "end": "2379",
+                "text": "QR",
+                "TYPE": "DOCTOR",
+                "comment": ""
+            },
+            {
+                "id": "P17",
+                "start": "2380",
+                "end": "2383",
+                "text": "QR5",
+                "TYPE": "USERNAME",
+                "comment": ""
+            },
+            {
+                "id": "P18",
+                "start": "2384",
+                "end": "2390",
+                "text": "957307",
+                "TYPE": "IDNUM",
+                "comment": ""
+            },
+            {
+                "id": "P19",
+                "start": "2401",
+                "end": "2411",
+                "text": "05/25/2079",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P20",
+                "start": "2417",
+                "end": "2427",
+                "text": "05/27/2079",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P21",
+                "start": "2433",
+                "end": "2443",
+                "text": "05/12/2079",
+                "TYPE": "DATE",
+                "comment": ""
+            }
+        ]
+    },
+    "101-02.xml": {
+        "text": "\n\n\nRecord date: 2079-06-23\n\n\n\n\nMERCY CARE CENTER\nMercy Internal Medicine Associates\n18 Newburgh Street\nTerrell, AR 72985\n\nRussell, Donna\n10418061\n06/23/79\n\n\nHISTORY OF PRESENT ILLNESS:  Ms. Russell is returning for follow \nup.  She has had couple of further episodes of this peculiar \nsensation in which her arm feels like it goes dead and then she \ngets some pressure in her chest.  She gets a slight shortness of \nbreath.  It lasts 30 seconds.  She gets as many as three or four \na day.  The frequency has, however, decreased and she is feeling \nbetter and better, as she begins to lose some weight.  I think \nweight loss is going to be critical.  She also is less fatigued \nas she begins to lose weight.\n\nHer hypertension has been under better control.  \nHydrochlorothiazide seems to be helping quite a bit in addition \nto the atenolol.\n\nPHYSICAL EXAMINATION:  Blood pressure is 146/86.  Weight has gone \nfrom 200 to 196 pounds.  Respiratory rate is 20.  Pulse is 64.  \nNeck is supple.  There is no lymphadenopathy.  Chest is clear to \npercussion and auscultation.  Cardiac exam is regularly regular \nwith no murmurs, gallops or rubs.  Abdomen is soft and nontender.  \nThere is no hepatosplenomegaly.  Extremities are clear of \ncyanosis, clubbing and edema.\n\nLABORATORY DATA:  Electrolytes are within normal limits.\n\nASSESSMENT AND PLAN\n1.\tHypertension.  Relatively well controlled on \nhydrochlorothiazide plus atenolol.\n2.\tWeight.  Now began to lose some weight and feeling much \nbetter as a result of it.\n3.\tPeculiar chest pressure.  I do not think she has coronary \nartery disease given the exercise test.  In light of this, \nwe will try to control her blood pressure and get her to \nlose some weight.  Hopefully, this will help with the \nresolution of her symptoms.\n\n\n\n_______________________________\nQuinn Rutledge, M.D.\n\nQR/RM5\n855930.do\nc\nDD:  \n06/27/2079\nDT:  \n06/28/2079\nDV:  \n06/23/2079\n\n\n\n\n\n\n",
+        "phi": [
+            {
+                "id": "P0",
+                "start": "16",
+                "end": "26",
+                "text": "2079-06-23",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P1",
+                "start": "31",
+                "end": "48",
+                "text": "MERCY CARE CENTER",
+                "TYPE": "HOSPITAL",
+                "comment": ""
+            },
+            {
+                "id": "P2",
+                "start": "49",
+                "end": "54",
+                "text": "Mercy",
+                "TYPE": "HOSPITAL",
+                "comment": ""
+            },
+            {
+                "id": "P3",
+                "start": "84",
+                "end": "102",
+                "text": "18 Newburgh Street",
+                "TYPE": "STREET",
+                "comment": ""
+            },
+            {
+                "id": "P4",
+                "start": "103",
+                "end": "110",
+                "text": "Terrell",
+                "TYPE": "CITY",
+                "comment": ""
+            },
+            {
+                "id": "P5",
+                "start": "112",
+                "end": "114",
+                "text": "AR",
+                "TYPE": "STATE",
+                "comment": ""
+            },
+            {
+                "id": "P6",
+                "start": "115",
+                "end": "120",
+                "text": "72985",
+                "TYPE": "ZIP",
+                "comment": ""
+            },
+            {
+                "id": "P7",
+                "start": "122",
+                "end": "136",
+                "text": "Russell, Donna",
+                "TYPE": "PATIENT",
+                "comment": ""
+            },
+            {
+                "id": "P8",
+                "start": "137",
+                "end": "145",
+                "text": "10418061",
+                "TYPE": "MEDICALRECORD",
+                "comment": ""
+            },
+            {
+                "id": "P9",
+                "start": "146",
+                "end": "154",
+                "text": "06/23/79",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P10",
+                "start": "190",
+                "end": "197",
+                "text": "Russell",
+                "TYPE": "PATIENT",
+                "comment": ""
+            },
+            {
+                "id": "P11",
+                "start": "1808",
+                "end": "1822",
+                "text": "Quinn Rutledge",
+                "TYPE": "DOCTOR",
+                "comment": ""
+            },
+            {
+                "id": "P12",
+                "start": "1830",
+                "end": "1832",
+                "text": "QR",
+                "TYPE": "DOCTOR",
+                "comment": ""
+            },
+            {
+                "id": "P13",
+                "start": "1833",
+                "end": "1836",
+                "text": "RM5",
+                "TYPE": "USERNAME",
+                "comment": ""
+            },
+            {
+                "id": "P14",
+                "start": "1837",
+                "end": "1843",
+                "text": "855930",
+                "TYPE": "IDNUM",
+                "comment": ""
+            },
+            {
+                "id": "P15",
+                "start": "1855",
+                "end": "1865",
+                "text": "06/27/2079",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P16",
+                "start": "1872",
+                "end": "1882",
+                "text": "06/28/2079",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P17",
+                "start": "1889",
+                "end": "1899",
+                "text": "06/23/2079",
+                "TYPE": "DATE",
+                "comment": ""
+            }
+        ]
+    },
+    "101-03.xml": {
+        "text": "\n\n\nRecord date: 2079-08-11\n\n\n\n\nMERCY CARE CENTER\nMERCY Internal Medicine Associates\n07 Newburgh Street\nTerrell, AR  72985\n\nRussell, Donna\n10418061\n08/11/79\n\n\nHISTORY OF PRESENT ILLNESS:  Ms. Russell returns for further evaluation.  \nShe has been doing very well.  She has been exercising and has lost from \n200 to 170 pounds.  She is feeling very well.\n\nNotably, Dr. Lu sent her for a follow-up ETT.  He did not find the \nfirst ETT acceptable.  The second ETT was grossly positive.  As a result \nof this, I think it is reasonable for us in addition to having her on \natenolol to stop the hydrochlorothiazide, put her on ramipril and a \nnitrate.  She is having once every two weeks feeling a slight twinge of \npain that she was having before when she went up steps.\n\nShe did have hyperlipidemia.  We have put her on Lipitor, which has \nprovided some control.  However, her HCL is still 36 and LDL 118, which \nis not an excellent ratio.  Nonetheless, her CK has been within normal \nlimits.\n\nShe also has right shoulder lipoma.  This has become apparent since she \nlost so much weight.  She wanted to see someone in follow up and I have \nrecommended Dr. Dawson.\n\nPHYSICAL EXAMINATION:  Her weight is 170 pounds, blood pressure is \n120/64, respiratory rate is 20, and pulse is 64.  Neck is supple.  There \nis no lymphadenopathy.  Chest is clear to percussion and auscultation.  \nCardiac exam is regularly regular with no murmurs, gallops, or rubs.  \nAbdomen is soft and nontender.  There is no hepatosplenomegaly.  \nExtremities are clear of cyanosis, clubbing, and edema.\n\nLABORATORY DATA:  None today.\n\n\nRussell, Donna\n10418061\n08/11/79\nPage 2\n\n\nASSESSMENT AND PLAN:\n1.\tCAD.  We will start her on ramipril and long acting nitrate.  I also \ngave her nitroglycerine.  We will stop her hydrochlorothiazide but \ncontinue her atenolol.  She is also on one aspirin a day along with \nPremarin and Synthroid.\n2.\tWeight loss.  She will continue to exercise.  I suspect she is going \nto lose more weight.  This is excellent.\n3.\tCoronary artery disease.  Dr. Lu will be deciding when to do a \ncardiac catheterization.  It is his opinion, and I must concur that \nthis is an appropriate next step with Ms. Russell.  She is going to \ndelay her usual trip to Rhode Island until we can get final assessment \ndone on this variety of medical issues.\n\n\n\n_______________________________\nQuinn Rutledge, M.D.\n\nQR/RM5\n055626.doc\nDD:  \n08/16/2079\nDT:  08/18/2079\nDV:  08/11/2079\n\n\n\n\n\n\n",
+        "phi": [
+            {
+                "id": "P0",
+                "start": "16",
+                "end": "26",
+                "text": "2079-08-11",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P1",
+                "start": "31",
+                "end": "48",
+                "text": "MERCY CARE CENTER",
+                "TYPE": "HOSPITAL",
+                "comment": ""
+            },
+            {
+                "id": "P2",
+                "start": "49",
+                "end": "54",
+                "text": "MERCY",
+                "TYPE": "HOSPITAL",
+                "comment": ""
+            },
+            {
+                "id": "P3",
+                "start": "84",
+                "end": "102",
+                "text": "07 Newburgh Street",
+                "TYPE": "STREET",
+                "comment": ""
+            },
+            {
+                "id": "P4",
+                "start": "103",
+                "end": "110",
+                "text": "Terrell",
+                "TYPE": "CITY",
+                "comment": ""
+            },
+            {
+                "id": "P5",
+                "start": "112",
+                "end": "114",
+                "text": "AR",
+                "TYPE": "STATE",
+                "comment": ""
+            },
+            {
+                "id": "P6",
+                "start": "116",
+                "end": "121",
+                "text": "72985",
+                "TYPE": "ZIP",
+                "comment": ""
+            },
+            {
+                "id": "P7",
+                "start": "123",
+                "end": "137",
+                "text": "Russell, Donna",
+                "TYPE": "PATIENT",
+                "comment": ""
+            },
+            {
+                "id": "P8",
+                "start": "138",
+                "end": "146",
+                "text": "10418061",
+                "TYPE": "MEDICALRECORD",
+                "comment": ""
+            },
+            {
+                "id": "P9",
+                "start": "147",
+                "end": "155",
+                "text": "08/11/79",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P10",
+                "start": "191",
+                "end": "198",
+                "text": "Russell",
+                "TYPE": "PATIENT",
+                "comment": ""
+            },
+            {
+                "id": "P11",
+                "start": "367",
+                "end": "369",
+                "text": "Lu",
+                "TYPE": "DOCTOR",
+                "comment": ""
+            },
+            {
+                "id": "P12",
+                "start": "1151",
+                "end": "1157",
+                "text": "Dawson",
+                "TYPE": "DOCTOR",
+                "comment": ""
+            },
+            {
+                "id": "P13",
+                "start": "1601",
+                "end": "1615",
+                "text": "Russell, Donna",
+                "TYPE": "PATIENT",
+                "comment": ""
+            },
+            {
+                "id": "P14",
+                "start": "1616",
+                "end": "1624",
+                "text": "10418061",
+                "TYPE": "MEDICALRECORD",
+                "comment": ""
+            },
+            {
+                "id": "P15",
+                "start": "1625",
+                "end": "1633",
+                "text": "08/11/79",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P16",
+                "start": "2045",
+                "end": "2047",
+                "text": "Lu",
+                "TYPE": "DOCTOR",
+                "comment": ""
+            },
+            {
+                "id": "P17",
+                "start": "2190",
+                "end": "2197",
+                "text": "Russell",
+                "TYPE": "PATIENT",
+                "comment": ""
+            },
+            {
+                "id": "P18",
+                "start": "2241",
+                "end": "2253",
+                "text": "Rhode Island",
+                "TYPE": "STATE",
+                "comment": ""
+            },
+            {
+                "id": "P19",
+                "start": "2364",
+                "end": "2378",
+                "text": "Quinn Rutledge",
+                "TYPE": "DOCTOR",
+                "comment": ""
+            },
+            {
+                "id": "P20",
+                "start": "2386",
+                "end": "2388",
+                "text": "QR",
+                "TYPE": "DOCTOR",
+                "comment": ""
+            },
+            {
+                "id": "P21",
+                "start": "2389",
+                "end": "2392",
+                "text": "RM5",
+                "TYPE": "USERNAME",
+                "comment": ""
+            },
+            {
+                "id": "P22",
+                "start": "2393",
+                "end": "2399",
+                "text": "055626",
+                "TYPE": "IDNUM",
+                "comment": ""
+            },
+            {
+                "id": "P23",
+                "start": "2410",
+                "end": "2420",
+                "text": "08/16/2079",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P24",
+                "start": "2426",
+                "end": "2436",
+                "text": "08/18/2079",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P25",
+                "start": "2442",
+                "end": "2452",
+                "text": "08/11/2079",
+                "TYPE": "DATE",
+                "comment": ""
+            }
+        ]
+    },
+    "102-01.xml": {
+        "text": "\n\n\nRecord date: 2120-09-19\n\nPersonal Data and Overall Health\t\n\nPatient is a 81 yr. old male who presents to Dr. Yager for multiple tooth extractions on 10/01/20.\n\n\n\nHistory of Present Illness\t\n\nThe patient complains of a hx. of tooth abscesses.\n\n\n\nPast Surgical History\t\n\nPrior surgery includes:  \n\n1.) excision l. neck mass for post l. neck lipoma 6/27/16- under local, no complications\n\n2.) bowel surgery 15 yrs ago- g.a.- no complications\n\n3.) hernia repair- 20 yrs ago- GA. no complications\n\n4.) appendectomy-40 yrs ago- GA- no complications\n\n5.) hemorroids- 2062-per patient done under spinal- had severe post spinal headache.\n\n\n\nFamily History\t\n\nThere in no family history of adverse reactions to general anesthesia.\n\n\n\nPast Medical History\t\n\nCurrent medical problems include:  \n\n1.) HTN\n\n2.) DMx20yrs- per patient glucose levels run 125-150 range\n\n3.) hx. of tooth abscesses\n\n4.) hypercholesterolemia\n\n\n\n\n\n\n\nSocial History\t\n\nSmoking: no\n\nAlcohol use: no history of excessive use\n\nSubstance abuse: none\n\n\n\nReview of Systems\t\n\nMedications:\n\ninsulin- 5 R/25N in am, 15 R in evening\n\nhctz-25mg qd\n\ncaptopril 25mg 2x/day\n\nlipitor 10mgqd\n\nzyrtec prn\n\necasa\n\nvit e\n\nAllergies: shellfish\n\n\n\nCardiovascular: history of hypertension, no MI; denies CP, DOE, syncope, ankle edema\n\nRespiratory: no history of asthma or chronic lung disease; denies unusual shortness of breath\n\nNeurological: no history of neurological problems\n\nGastrointestinal: no history of PUD; denies reflux\n\nHepatobiliary: no history of liver disease; denies jaundice or hepatitis\n\nRenal/Genitourinary: no history of renal failure; denies hematuria, dysuria, obstructive uropathy\n\nMusculoskeletal: denies pain or limitation of movement\n\nEndocrine/metabolic: history of diabetes last 20 yrs, hypercholesterolemia\n\nHeme/Onc:  no history of bleeding, blood diseases; no history of malignancy, chemotherapy, or radiation therapy\n\nPsychiatric: no significant psychiatric problems\n\n\n\n\n\nExam\t\n\nSaO2: 98% RA\n\nHt:6'1\"\n\nWt:209\n\nBP:180/74\n\nP:79\n\n\n\nHEEN&T:  good range of motion, no masses, neck veins flat, no bruits\n\nAirway:  Mallampatti Class I or II\n\nTeeth:  in good repair\n\nLungs:  clear bilaterally\n\nHeart:  regular rhythm, no murmurs, S1=S2, no gallop\n\n\n\n\n\nAssessment\t\n\nASA Physical Status:  II\n\nWell prepared for surgery; no unusual concerns related to medical problems.\n\n\n\nPlan\t\n\nProposed Anesthetic: general anesthesia\n\nMonitors:  standard\n\nPain Management:  IVPCA\n\nAutologous blood:  none\n\nPremedication:  none\n\nUsual Medications:  take on day of surgery\n\nMedications to be held on day of surgery:  lipitor\n\nDiabetic medications:  counseled to old am insulin regimen\n\nNSAIDS:  avoid for 3 days before surgery\n\nAspirin:  avoid for 7 days before surgery\n\nNPO: after midnight \n\n\n\nExternal Labs\t\n\nNot available\n\n\n\nAttending Anesthesiologist Reassessment Note\t\n\nI have reviewed this preanesthetic assessment and concur with the assessment and recommended plan with the following exceptions:\n\n\n\n\n\n\n\n\n\n\n\n______________________________                              \n\n\n\n\n\n\n\nYeomans, Vertis K., M.D.\n\n\n\n",
+        "phi": [
+            {
+                "id": "P0",
+                "start": "16",
+                "end": "26",
+                "text": "2120-09-19",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P1",
+                "start": "76",
+                "end": "78",
+                "text": "81",
+                "TYPE": "AGE",
+                "comment": ""
+            },
+            {
+                "id": "P2",
+                "start": "112",
+                "end": "117",
+                "text": "Yager",
+                "TYPE": "DOCTOR",
+                "comment": ""
+            },
+            {
+                "id": "P3",
+                "start": "152",
+                "end": "160",
+                "text": "10/01/20",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P4",
+                "start": "349",
+                "end": "356",
+                "text": "6/27/16",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P5",
+                "start": "563",
+                "end": "567",
+                "text": "2062",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P6",
+                "start": "3030",
+                "end": "3048",
+                "text": "Yeomans, Vertis K.",
+                "TYPE": "DOCTOR",
+                "comment": ""
+            }
+        ]
+    },
+    "102-02.xml": {
+        "text": "\n\n\nRecord date: 2123-11-25\n\n\t\t\t\n\nNPH 9 / R 0  (H)\n\nLopressor 75 mg tid\t795-76-17\n\nLisinopril 10 mg qd\tCORONA, Bruce\n\nASA 325 mg qd\t\n\nZocor 40 mg qd (D/C'd by Dr. Chandler)\n\nFlomax 0.4 mg bid\n\nCelebrex 100 mg qd\n\nColace 100 mg tid\n\n\n\nNovember 25, 2123\n\n\n\nInterim History:\t\n\nComes to review diabetes and related problems.\n\nHe feels that he gets tired and needs to rest more after doing any exercise. He denies shortness of breath or chest pain, but he is not just describing generalized fatigue in that this is clearly related to physical exercise. He has not had an ETT since April, 2122.\n\nHome Blood Tests:  \n\nB \t103-149\n\nL\tnot testing\n\nS\tnot testing\n\nHS\t150-175, about 2pc\n\n\n\nRetinopathy:\tSees Dr. Dailey each January. In January, he had very mild diabetic retinopathy and slight macular degeneration.\n\nNephropathy:\tDue for microalbumin/creatinine ratio; normal in past.\n\nNeuropathy:\tNo foot discomfort.\n\nCardiac:\tabove; has seen Dr. Brian recently.\n\nVascular:\tNo claudication\n\n\n\nPast Medical History: \n\nHas had flu shot this year.\n\nHe told me in 2119 that he had had a PneumoVax, but did not know exactly when.\n\n\n\nSocial History: \n\nHis wife has had walking difficulty after radiation therapy for her gynecologic malignancy. She sees Dr. YAEL Pratt.\n\n\n\nSocial History:\n\nHe retired. A new management gave him 3 hours to decide whether to retire or to work nights.\n\n\n\nReview of Systems: above\n\n\n\nPhysical Exam:\t\n\nLooks well.\n\nBP:   126/60\t\tP:   72, regular\t\n\nWt:   148.5 without shoes, down 17 since May !\n\nHEENT:\tAnicteric. \n\nCarotids:\tNormal pulses, without bruits\n\nChest:\tClear to auscultation\n\nHeart:\tNormal S1; physiologic S2.  S4.  2/6 systolic ejection murmur\n\nAbdomen:\tNo hepatosplenomegaly. No masses. No tenderness. No palpable AAA. \n\nExtremities:\tTrace edema.         DP absent R, 1+ L.   PT absent.   There is an area at medial tip of L great toe with ? underlying dark blood and overlying callus that is of concern.\n\n\n\nImpressions and Plan:\t\n\nWould check some BS before supper as well.\n\nI have several concerns:\n\nCould his exercise-induced fatigue be an angina-equivalent? Will defer to Dr. Brian with respect to the need for another ETT.\n\nHis weight loss continues, without explanation. Dr. Chandler is aware of this.\n\nHis L great toe is of concern. Dr. Aldridge has been following this area and he will continue to follow-up with him.\n\nA1c, CBC, Fe, TIBC, ferritin, SGOT, SGPT, alkaline phosphatase, Bili T/D, TSH, Electrolytes, BUN/Creatinine, spot urine for microalbumin and creatinine\n\n\n\nAppointments:\t4 months\n\n\n\ncc:\tDevan Chandler, M.D., Ph.D.\n\n\tBruce Brian, M.D.\n\n\n\n\n\n\t\t\tBetty G. Pierce, M.D., Ph.D.\n\n\n\n\n\n",
+        "phi": [
+            {
+                "id": "P0",
+                "start": "16",
+                "end": "26",
+                "text": "2123-11-25",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P1",
+                "start": "71",
+                "end": "80",
+                "text": "795-76-17",
+                "TYPE": "MEDICALRECORD",
+                "comment": ""
+            },
+            {
+                "id": "P2",
+                "start": "102",
+                "end": "115",
+                "text": "CORONA, Bruce",
+                "TYPE": "PATIENT",
+                "comment": ""
+            },
+            {
+                "id": "P3",
+                "start": "162",
+                "end": "170",
+                "text": "Chandler",
+                "TYPE": "DOCTOR",
+                "comment": ""
+            },
+            {
+                "id": "P4",
+                "start": "233",
+                "end": "250",
+                "text": "November 25, 2123",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P5",
+                "start": "575",
+                "end": "586",
+                "text": "April, 2122",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P6",
+                "start": "699",
+                "end": "705",
+                "text": "Dailey",
+                "TYPE": "DOCTOR",
+                "comment": ""
+            },
+            {
+                "id": "P7",
+                "start": "711",
+                "end": "718",
+                "text": "January",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P8",
+                "start": "723",
+                "end": "730",
+                "text": "January",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P9",
+                "start": "935",
+                "end": "940",
+                "text": "Brian",
+                "TYPE": "DOCTOR",
+                "comment": ""
+            },
+            {
+                "id": "P10",
+                "start": "1048",
+                "end": "1052",
+                "text": "2119",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P11",
+                "start": "1239",
+                "end": "1249",
+                "text": "YAEL Pratt",
+                "TYPE": "DOCTOR",
+                "comment": ""
+            },
+            {
+                "id": "P12",
+                "start": "1499",
+                "end": "1502",
+                "text": "May",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P13",
+                "start": "2103",
+                "end": "2108",
+                "text": "Brian",
+                "TYPE": "DOCTOR",
+                "comment": ""
+            },
+            {
+                "id": "P14",
+                "start": "2204",
+                "end": "2212",
+                "text": "Chandler",
+                "TYPE": "DOCTOR",
+                "comment": ""
+            },
+            {
+                "id": "P15",
+                "start": "2267",
+                "end": "2275",
+                "text": "Aldridge",
+                "TYPE": "DOCTOR",
+                "comment": ""
+            },
+            {
+                "id": "P16",
+                "start": "2535",
+                "end": "2549",
+                "text": "Devan Chandler",
+                "TYPE": "DOCTOR",
+                "comment": ""
+            },
+            {
+                "id": "P17",
+                "start": "2565",
+                "end": "2576",
+                "text": "Bruce Brian",
+                "TYPE": "DOCTOR",
+                "comment": ""
+            },
+            {
+                "id": "P18",
+                "start": "2591",
+                "end": "2606",
+                "text": "Betty G. Pierce",
+                "TYPE": "DOCTOR",
+                "comment": ""
+            }
+        ]
+    },
+    "102-03.xml": {
+        "text": "\n\n\nRecord date: 2124-09-28\n\n\t\t\t\n\nNPH 20\n\nLopressor 75 mg tid\t795-76-17\n\nLisinopril 10 mg qd\tCORONA, Bruce\n\nASA 325 mg qd\t\n\nFlomax 0.4 mg bid\n\nCelebrex 100 mg qd\n\nColace 100 mg bid\n\n\n\nSeptember 28, 2124\n\n\n\nInterim History:\t\n\nComes to review diabetes and related problems.\n\nHe had L THR in April\n\nHas gained some weight since the surgery.\n\nHowever, he reports that his BS are erratic despite a good diet and good appetite. He has had some symptoms of hypoglycemia in the late morning. He has checked his BS at that time and has found BS in the 70's-90's. \n\nHome Blood Tests:  \n\nB \t87-140's, and occasionally in the 200's, which he attributes to    bad food    the previous evening. \n\nRetinopathy:\tHe has seen Dr. Dailey within a month or so. Again going next week. He has had a Bell's palsy by report. It has improved very significant ly. \n\nNephropathy:\tDue for microalbumin/creatinine ratio; normal in past.\n\nNeuropathy:\tNo foot discomfort.\n\nCardiac:\tNo chest pain. No unusual dyspnea on exertion though he does have stable dyspnea on exertion doing activities in the house. \n\nVascular:\tNo claudication\n\n\n\nPast Medical History: \n\nMedications: He is on more insulin than he was prior to his hip surgery.\n\n\n\nSocial History: \n\nHe is planning to return to work as a printing press operator. He thinks that he can handle it and gets to sit down a lot.\n\nHis wife has been having problems with what he thinks to be complications of radiation therapy for gynecologic cancer.\n\n\n\nReview of Systems: above\n\n\n\nPhysical Exam:\t\n\nHe walks with a cane. Looks pretty frail but his mind is alert.\n\nBP:   140/64\t\tP:   68, regular\t\n\nWt:   164 without shoes, up 15 since March\n\nHEENT:\tAnicteric. \n\nCarotids:\tNormal pulses, without bruits\n\nNeck:\tNo JVD\n\nChest:\tClear to auscultation\n\nHeart:\tNormal S1; ? paradoxical S2.  S4.  2/6 systolic ejection murmur\n\nAbdomen:\tNo hepatosplenomegaly. No masses. No tenderness. No palpable AAA. \n\nExtremities:\tTrace ankle edema.        DP trace R, 1+ L. PT absent R, 1+ L.    There is a heel ulcer of L but the crust appears to be separating leaving healthy skin underneath.\n\nNeurological:\tAJ absent. Vibration sense moderately-severely reduced at the great toes. \n\n\n\nImpressions and Plan:\t\n\nTest BS QID a couple of days per week rather than every morning.\n\nReduce the NPH to 15 U and try to keep diet pretty uniform.\n\nCall Ann Vandenberg if having any symptoms of hypoglycemia or BS<90.\n\nBring the heel ulcer to Dr. Chandler's attention when he sees him next week.\n\nBe sure that he gets a flu shot.\n\nA1c, Electrolytes, BUN/Creatinine, CBC, spot urine for microalbumin and creatinine\n\n\n\nAppointments:\tAnn Vandenberg 6 weeks\n\n\tMe 4-5 months\n\n\n\ncc:\tDevan Chandler, M.D., Ph.D.\n\n\tBruce Brian, M.D.\n\n\n\n\n\n\t\t\tBetty G. Pierce, M.D., Ph.D.\n\n      \n\n\n\n",
+        "phi": [
+            {
+                "id": "P0",
+                "start": "16",
+                "end": "26",
+                "text": "2124-09-28",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P1",
+                "start": "61",
+                "end": "70",
+                "text": "795-76-17",
+                "TYPE": "MEDICALRECORD",
+                "comment": ""
+            },
+            {
+                "id": "P2",
+                "start": "92",
+                "end": "105",
+                "text": "CORONA, Bruce",
+                "TYPE": "PATIENT",
+                "comment": ""
+            },
+            {
+                "id": "P3",
+                "start": "183",
+                "end": "201",
+                "text": "September 28, 2124",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P4",
+                "start": "288",
+                "end": "293",
+                "text": "April",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P5",
+                "start": "711",
+                "end": "717",
+                "text": "Dailey",
+                "TYPE": "DOCTOR",
+                "comment": ""
+            },
+            {
+                "id": "P6",
+                "start": "1261",
+                "end": "1284",
+                "text": "printing press operator",
+                "TYPE": "PROFESSION",
+                "comment": ""
+            },
+            {
+                "id": "P7",
+                "start": "1649",
+                "end": "1654",
+                "text": "March",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P8",
+                "start": "2337",
+                "end": "2351",
+                "text": "Ann Vandenberg",
+                "TYPE": "DOCTOR",
+                "comment": ""
+            },
+            {
+                "id": "P9",
+                "start": "2430",
+                "end": "2438",
+                "text": "Chandler",
+                "TYPE": "DOCTOR",
+                "comment": ""
+            },
+            {
+                "id": "P10",
+                "start": "2614",
+                "end": "2628",
+                "text": "Ann Vandenberg",
+                "TYPE": "DOCTOR",
+                "comment": ""
+            },
+            {
+                "id": "P11",
+                "start": "2660",
+                "end": "2674",
+                "text": "Devan Chandler",
+                "TYPE": "DOCTOR",
+                "comment": ""
+            },
+            {
+                "id": "P12",
+                "start": "2690",
+                "end": "2701",
+                "text": "Bruce Brian",
+                "TYPE": "DOCTOR",
+                "comment": ""
+            },
+            {
+                "id": "P13",
+                "start": "2716",
+                "end": "2731",
+                "text": "Betty G. Pierce",
+                "TYPE": "DOCTOR",
+                "comment": ""
+            }
+        ]
+    },
+    "102-04.xml": {
+        "text": "\n\n\nRecord date: 2126-11-07\n\n\n\n\tCARDIOLOGY\n\n\t\n\n\tFAMILY HEALTH CLINIC\n\n\t\n\n\n\n\tInterval History:\n\n   Dr. Devan Chandler\n\n100 CRP\n\n\n\nRE:  Bruce Corona\n\nFHC Unit #:  795-76-17\n\n\n\nDear Dunham:\n\n\n\nI had the pleasure of seeing  Bruce Corona in the Cardiology Department office for a f/u visit.  Since I last saw him, he continues to complain of dyspnea.  An ETT was negative for ischemia.  PFTs were not really useful.  CT of the chest showed scarring/fibrosis.  His NT-proBNP has been on the marginal side, though he is without evidence for overt CHF.\n\n\n\nMedications:  Aspirin 325 mg qd, Flomax 0.4 mg qd, Lopressor 25 mg bid, Lipitor 10 mg qd, Lisinopril 20 mg qd, Colace 100 mg tid.\n\n\n\nPhysical examination:  Reveals him to be well appearing. His BP is 120/70 and his heart rate is 60 and regular. He is 170 pounds.  There is no jugular venous distention and carotid pulses are 2+ bilaterally without bruits.  His lungs are clear throughout, and notably demonstrate only very slight dullness at the left base.  His sternotomy is healing well and is stable.  His apical impulse is non-displaced with a slightly irregular rate and rhythm, a normal S1 and S2.  He has an S3 gallop.  No murmur.  His abdomen is benign without hepatosplenomegaly, bruits, or a dilated aorta.  There is no pedal edema and posterior tibial pulses are 2+ bilaterally.\n\n\n\nEKG:  NSR with a 1st degree AV block.  He has a LBBB, which is chronic.\n\n\n\nImpression:\n\n\n\n1.CAD, s/p MI: currently stable.\n\n\n\n2. Hypertension: under good control.\n\n\n\n3.Hypercholesterolemia: controlled\n\n\n\n4. Dyspnea: I suspect he has an element of diastolic dysfunction.  I will restart low-dose lasix.\n\n\n\nThank you very much for the opportunity to participate in his care.\n\n\n\nWith best regards,\n\n\n\nBruce D. Brian, Jr., M.D.\n\n\n\n\tSigned electronically by   Bruce D Brian MD  on  Nov 7, 2126     \n\n\n\n\n\n",
+        "phi": [
+            {
+                "id": "P0",
+                "start": "16",
+                "end": "26",
+                "text": "2126-11-07",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P1",
+                "start": "47",
+                "end": "67",
+                "text": "FAMILY HEALTH CLINIC",
+                "TYPE": "HOSPITAL",
+                "comment": ""
+            },
+            {
+                "id": "P2",
+                "start": "101",
+                "end": "115",
+                "text": "Devan Chandler",
+                "TYPE": "DOCTOR",
+                "comment": ""
+            },
+            {
+                "id": "P3",
+                "start": "133",
+                "end": "145",
+                "text": "Bruce Corona",
+                "TYPE": "PATIENT",
+                "comment": ""
+            },
+            {
+                "id": "P4",
+                "start": "147",
+                "end": "150",
+                "text": "FHC",
+                "TYPE": "HOSPITAL",
+                "comment": ""
+            },
+            {
+                "id": "P5",
+                "start": "160",
+                "end": "169",
+                "text": "795-76-17",
+                "TYPE": "MEDICALRECORD",
+                "comment": ""
+            },
+            {
+                "id": "P6",
+                "start": "178",
+                "end": "184",
+                "text": "Dunham",
+                "TYPE": "DOCTOR",
+                "comment": ""
+            },
+            {
+                "id": "P7",
+                "start": "219",
+                "end": "231",
+                "text": "Bruce Corona",
+                "TYPE": "PATIENT",
+                "comment": ""
+            },
+            {
+                "id": "P9",
+                "start": "1738",
+                "end": "1757",
+                "text": "Bruce D. Brian, Jr.",
+                "TYPE": "DOCTOR",
+                "comment": ""
+            },
+            {
+                "id": "P10",
+                "start": "1795",
+                "end": "1808",
+                "text": "Bruce D Brian",
+                "TYPE": "DOCTOR",
+                "comment": ""
+            },
+            {
+                "id": "P11",
+                "start": "1817",
+                "end": "1828",
+                "text": "Nov 7, 2126",
+                "TYPE": "DATE",
+                "comment": ""
+            }
+        ]
+    },
+    "102-05.xml": {
+        "text": "\n\n\nRecord date: 2127-09-30\n\n\n\n\tCARDIOLOGY\n\n\t\n\n\tFAMILY HEALTH CLINIC\n\n\t\n\n\n\n\tInterval History:\n\n   His customary dyspnea persists, but otherwise, nothing is new.  No chest discomfort.  No PND or orthopnea.\n\n\n\nMedications:  Aspirin 325 mg qd, Lipitor 10 mg qd, Diovan 160 mg qd\n\n\n\nPhysical examination:  Reveals him to be well appearing. His BP is 111/50 and his heart rate is 68 and regular. He is 176 pounds.  There is no jugular venous distention and carotid pulses are 2+ bilaterally without bruits.  His lungs are clear throughout, and notably demonstrate only very slight dullness at the left base.  His sternotomy is healing well and is stable.  His apical impulse is non-displaced with a slightly irregular rate and rhythm, a normal S1 and S2.  He has an S3 gallop.  No murmur.  His abdomen is benign without hepatosplenomegaly, bruits, or a dilated aorta.  There is no pedal edema and posterior tibial pulses are 2+ bilaterally.\n\n\n\nEKG:  NSR with a 1st degree AV block.  He has a narrow QRS with an old ASMI. Compared, the LBBB is no longer evident.\n\n\n\nImpression:\n\n\n\n1.CAD, s/p MI: currently stable.  Symptoms of dyspnea may be an ischemic equivalent, though, so I will give him a nitropatch.\n\n\n\n2. Hypertension: under good control.\n\n\n\n3.Hypercholesterolemia: controlled\n\n\n\n4. Dyspnea: I suspect he has an element of diastolic dysfunction together with age-related deconditioning and chronic lung disease.  Nitrates might help the former issue.\n\n\t\n\nBruce D. Brian, MD pager #94692\n\n\t\n\nSigned electronically by  Bruce D. Brian, MD\n\nDocument Status: Final\n\n\n\n",
+        "phi": [
+            {
+                "id": "P0",
+                "start": "16",
+                "end": "26",
+                "text": "2127-09-30",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P1",
+                "start": "47",
+                "end": "67",
+                "text": "FAMILY HEALTH CLINIC",
+                "TYPE": "HOSPITAL",
+                "comment": ""
+            },
+            {
+                "id": "P2",
+                "start": "1456",
+                "end": "1470",
+                "text": "Bruce D. Brian",
+                "TYPE": "DOCTOR",
+                "comment": ""
+            },
+            {
+                "id": "P3",
+                "start": "1482",
+                "end": "1487",
+                "text": "94692",
+                "TYPE": "PHONE",
+                "comment": ""
+            },
+            {
+                "id": "P4",
+                "start": "1518",
+                "end": "1532",
+                "text": "Bruce D. Brian",
+                "TYPE": "DOCTOR",
+                "comment": ""
+            }
+        ]
+    },
+    "103-01.xml": {
+        "text": "\n\n\nRecord date: 2067-11-24\n\n                     HUNTINGTON EMERGENCY DEPT VISIT\n\n \n\nTHOMAS-YOSEF,JULIA   840-91-51-9            VISIT DATE: 11/24/67\n\nThis patient was seen with Dr. Earley.  The patient was interviewed \n\nand examined by me.  Resident's note reviewed and confirmed.  The \n\nplan of care was discussed with the patient.   Please see chart for \n\ndetails. \n\nHISTORY OF PRESENTING COMPLAINT:  Briefly, this is a 47-year-old \n\nwoman with a history of asthma and non-insulin-dependent diabetes \n\nmellitus who has had three weeks of progressive substernal chest \n\npain radiating to the back with associated nausea, vomiting, \n\nshortness of breath, and diaphoresis.  The episodes of pain last \n\n10-15 minutes with exertion and at rest.  \n\nPAST MEDICAL HISTORY:  Asthma, hypothyroidism, and recently \n\ndiagnosed diabetes mellitus.\n\nMEDICATIONS:  Levoxyl, Albuterol, Protonix, Tums, Flovent.\n\nSOCIAL HISTORY AND FAMILY HISTORY:  Remote history of smoking.  \n\nFamily history:  Coronary artery disease in father.\n\nPHYSICAL EXAMINATION:  GENERAL APPEARANCE:  No acute distress, \n\npain-free.  VITAL SIGNS:  Afebrile.  Pulse 105.  Respirations 15. \n\nBlood pressure 143/96.  Pulse oximetry is 95% on room air.  \n\nCARDIAC:  Regular rate and rhythm.  Normal S1 and S2.  No murmurs, \n\ngallops, or rubs.  NECK:  JVP 5 cm.  LUNGS:  Clear.  Breathing is \n\nunlabored.  ABDOMEN:  Soft, nontender, and nondistended with active \n\nbowel sounds.  EXTREMITIES:  No clubbing, cyanosis, or edema.  \n\nLABORATORY EVALUATION:  The EKG shows a normal sinus rhythm with \n\nlateral T-wave inversions and question of old septal myocardial \n\ninfarction.  Chest x-ray shows no acute cardiopulmonary disease.\n\nFINAL DIAGNOSIS:  Chest pain, multiple cardiac risk factors, \n\nabnormal electrocardiogram, currently pain-free without evidence of \n\ncongestive heart failure.\n\nDISPOSITION (including condition upon discharge):  The plan is \n\naspirin, Lopressor, and admission to telemetry.  The patient was \n\nadmitted to the hospital in stable condition.\n\n___________________________________                    VA271/37942 \n\nMARVIN UTECHT, M.D.   MU830                          D:11/24/67 \n\n                                                       T:11/24/67 \n\nDictated by:  MARVIN UTECHT, M.D.   MU830 \n\n ******** Not reviewed by Attending Physician ********\n\n\n\n\n\n",
+        "phi": [
+            {
+                "id": "P0",
+                "start": "16",
+                "end": "26",
+                "text": "2067-11-24",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P1",
+                "start": "49",
+                "end": "59",
+                "text": "HUNTINGTON",
+                "TYPE": "HOSPITAL",
+                "comment": ""
+            },
+            {
+                "id": "P2",
+                "start": "85",
+                "end": "103",
+                "text": "THOMAS-YOSEF,JULIA",
+                "TYPE": "PATIENT",
+                "comment": ""
+            },
+            {
+                "id": "P3",
+                "start": "106",
+                "end": "117",
+                "text": "840-91-51-9",
+                "TYPE": "MEDICALRECORD",
+                "comment": ""
+            },
+            {
+                "id": "P4",
+                "start": "141",
+                "end": "149",
+                "text": "11/24/67",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P5",
+                "start": "182",
+                "end": "188",
+                "text": "Earley",
+                "TYPE": "DOCTOR",
+                "comment": ""
+            },
+            {
+                "id": "P6",
+                "start": "423",
+                "end": "425",
+                "text": "47",
+                "TYPE": "AGE",
+                "comment": ""
+            },
+            {
+                "id": "P7",
+                "start": "2077",
+                "end": "2088",
+                "text": "VA271/37942",
+                "TYPE": "IDNUM",
+                "comment": ""
+            },
+            {
+                "id": "P8",
+                "start": "2091",
+                "end": "2104",
+                "text": "MARVIN UTECHT",
+                "TYPE": "DOCTOR",
+                "comment": ""
+            },
+            {
+                "id": "P9",
+                "start": "2113",
+                "end": "2118",
+                "text": "MU830",
+                "TYPE": "USERNAME",
+                "comment": ""
+            },
+            {
+                "id": "P10",
+                "start": "2146",
+                "end": "2154",
+                "text": "11/24/67",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P11",
+                "start": "2214",
+                "end": "2222",
+                "text": "11/24/67",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P12",
+                "start": "2239",
+                "end": "2252",
+                "text": "MARVIN UTECHT",
+                "TYPE": "DOCTOR",
+                "comment": ""
+            },
+            {
+                "id": "P13",
+                "start": "2261",
+                "end": "2266",
+                "text": "MU830",
+                "TYPE": "USERNAME",
+                "comment": ""
+            }
+        ]
+    },
+    "103-02.xml": {
+        "text": "\n\n\nRecord date: 2068-01-25\n\n                     HUNTINGTON EMERGENCY DEPT VISIT\n\n \n\nTHOMAS-YOSEF,JULIA   840-91-51-9\n\nThis patient was seen by the resident.  I confirm that I have \n\ninterviewed and examined the patient, reviewed the resident's \n\ndocumentation on the patient's chart, and discussed the evaluation, \n\nplan of care, and disposition with the patient. \n\nHISTORY OF PRESENTING COMPLAINT:  The patient is a 52-year-old \n\nfemale status post LAD stent placement in November of 2067.  She \n\npresents to the emergency room with chest pain since last night.  \n\nIt has been midsternal going to her back.  She denies any knife or \n\ncrushing pain going down her back.  However, the chest pain has \n\nbeen consistent since 9:00 to about 4:00 this morning.  No \n\nshortness of breath, diaphoresis, light-headedness, or dizziness.  \n\nShe did not take any nitroglycerin.  She presented to the emergency \n\nroom today after she talked to her cardiologist, who wanted her to \n\ncome to the emergency room for evaluation.  The patient denies \n\ntaking any nitroglycerin and denies any chest pain episodes since \n\nher stent was placed back in November 2067.\n\nREVIEW OF SYSTEMS:  The patient had some midsternal chest pain.\n\nPAST MEDICAL HISTORY:  Significant for oral hypoglycemic requiring \n\ndiabetes, hypertension, high cholesterol, coronary artery disease, \n\nand hypothyroidism.  Past surgeries and procedures include stent \n\nplacement for an LAD lesion back in November 2067.\n\nMEDICATIONS:  Glucophage, Ativan, Metoprolol, Zocor, and Plavix, \n\nincluding aspirin.\n\nALLERGIES:  No known drug allergies. \n\nSOCIAL HISTORY AND FAMILY HISTORY:  The patient has a past history \n\nof tobacco use.  She denies any alcohol or IV drug use.\n\nPHYSICAL EXAMINATION:  VITAL SIGNS:  Afebrile.  Normal vital signs. \n\nBilaterally equal blood pressures.  GENERAL APPEARANCE:  \n\nWell-appearing female otherwise in no acute distress.  LUNGS:  \n\nClear to auscultation bilaterally.  CARDIAC:  S1, S2, regular rate \n\nand rhythm without murmurs, gallops or rubs.  ABDOMEN:  Positive \n\nbowel sounds.  Soft, nontender.  RECTAL:  Guaiac-negative.  \n\nEXTREMITIES:  No lower extremity swelling or edema. \n\nLABORATORY EVALUATION:  Glucose is 204.  Labs are other wise \n\nnegative.  Troponin is 0.04.  Normal CBC and coagulation studies.  \n\nChest x-ray shows mild cardiomegaly, mild congestion, otherwise \n\nnormal mediastinum, no pleural infiltrates or effusion.  EKG shows \n\npseudonormalization in aVL and V2 compared to an EKG in November \n\n2067.\n\nTHERAPY RENDERED/COURSE IN ED:  Impression is a 52-year-old female \n\nwith a history of coronary artery disease presenting with chest \n\npain since her stent placement in November.  We will treat her for \n\nan occluded stent.  We will start IV heparin, nitroglycerin for \n\npain, given aspirin, call cardiology as to further intervention and \n\nmanagement.  At this time the patient is clinically hemodynamically \n\nstable, awaiting transfer to the cardiac floor.\n\nDISPOSITION (including condition upon discharge):  Condition is \n\nstable.\n\n___________________________________                    NJ688/96614 \n\nTONYA YOO, M.D.   TY822                             D:01/25/68 \n\n                                                       T:01/25/68 \n\nDictated by:  TONYA YOO, M.D.   TY822 \n\n ******** Not reviewed by Attending Physician ********\n\n\n\n\n\n",
+        "phi": [
+            {
+                "id": "P0",
+                "start": "16",
+                "end": "26",
+                "text": "2068-01-25",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P1",
+                "start": "49",
+                "end": "59",
+                "text": "HUNTINGTON",
+                "TYPE": "HOSPITAL",
+                "comment": ""
+            },
+            {
+                "id": "P2",
+                "start": "85",
+                "end": "103",
+                "text": "THOMAS-YOSEF,JULIA",
+                "TYPE": "PATIENT",
+                "comment": ""
+            },
+            {
+                "id": "P3",
+                "start": "106",
+                "end": "117",
+                "text": "840-91-51-9",
+                "TYPE": "MEDICALRECORD",
+                "comment": ""
+            },
+            {
+                "id": "P4",
+                "start": "418",
+                "end": "420",
+                "text": "52",
+                "TYPE": "AGE",
+                "comment": ""
+            },
+            {
+                "id": "P5",
+                "start": "474",
+                "end": "490",
+                "text": "November of 2067",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P6",
+                "start": "1133",
+                "end": "1146",
+                "text": "November 2067",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P7",
+                "start": "1455",
+                "end": "1468",
+                "text": "November 2067",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P8",
+                "start": "2492",
+                "end": "2507",
+                "text": "November   2067",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P9",
+                "start": "2558",
+                "end": "2560",
+                "text": "52",
+                "TYPE": "AGE",
+                "comment": ""
+            },
+            {
+                "id": "P10",
+                "start": "2679",
+                "end": "2687",
+                "text": "November",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P11",
+                "start": "3099",
+                "end": "3110",
+                "text": "NJ688/96614",
+                "TYPE": "IDNUM",
+                "comment": ""
+            },
+            {
+                "id": "P12",
+                "start": "3113",
+                "end": "3122",
+                "text": "TONYA YOO",
+                "TYPE": "DOCTOR",
+                "comment": ""
+            },
+            {
+                "id": "P13",
+                "start": "3131",
+                "end": "3136",
+                "text": "TY822",
+                "TYPE": "USERNAME",
+                "comment": ""
+            },
+            {
+                "id": "P14",
+                "start": "3167",
+                "end": "3175",
+                "text": "01/25/68",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P15",
+                "start": "3235",
+                "end": "3243",
+                "text": "01/25/68",
+                "TYPE": "DATE",
+                "comment": ""
+            },
+            {
+                "id": "P16",
+                "start": "3260",
+                "end": "3269",
+                "text": "TONYA YOO",
+                "TYPE": "DOCTOR",
+                "comment": ""
+            },
+            {
+                "id": "P17",
+                "start": "3278",
+                "end": "3283",
+                "text": "TY822",
+                "TYPE": "USERNAME",
+                "comment": ""
+            }
+        ]
+    }
+}

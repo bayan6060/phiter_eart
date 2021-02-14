@@ -1,0 +1,320 @@
+{
+    "total_false_positives": 157,
+    "total_false_negatives": 47,
+    "total_true_positives": 610,
+    "total_true_negatives": 7644,
+    "false_positives": [],
+    "true_positives": [],
+    "false_negatives": [],
+    "true_negatives": [],
+    "summary_by_file": {
+        "./data/i2b2_results/100-01.txt": {
+            "false_positives": [
+                "Orthopedic",
+                "Amaryl",
+                "Mmedical"
+            ],
+            "false_negatives": [
+                "Har",
+                "43",
+                "Tri",
+                "Hospital",
+                "set",
+                "designer",
+                "Doctors",
+                "Hospital"
+            ],
+            "num_false_negatives": 8
+        },
+        "./data/i2b2_results/100-02.txt": {
+            "false_positives": [
+                "119",
+                "90",
+                "CAT"
+            ],
+            "false_negatives": [
+                "45"
+            ],
+            "num_false_negatives": 1
+        },
+        "./data/i2b2_results/100-03.txt": {
+            "false_positives": [
+                "curtailed",
+                "owl",
+                "REM",
+                "Nadir",
+                "REM",
+                "titrations",
+                "Mallinckrodt",
+                "Breeze",
+                "2",
+                "4",
+                "Provigil",
+                "Cardia",
+                "146",
+                "88",
+                "arrousal",
+                "nonrestorative",
+                "lightened",
+                "1",
+                "2",
+                "nonrestorative",
+                "psychotropics",
+                "barbituate",
+                "Mallinckrodt",
+                "Breeze",
+                "2",
+                "4",
+                "nonpharmacologic",
+                "DD",
+                "DT"
+            ],
+            "false_negatives": [
+                "Doctors",
+                "Hospital",
+                "46",
+                "15",
+                "10",
+                "set",
+                "designer",
+                "Foundation",
+                "Nursing",
+                "Home",
+                "Doctors",
+                "Hospital",
+                "1991"
+            ],
+            "num_false_negatives": 13
+        },
+        "./data/i2b2_results/100-04.txt": {
+            "false_positives": [
+                "JAR",
+                "puls",
+                "AF",
+                "POBA",
+                "CCU",
+                "AF",
+                "with",
+                "RVR",
+                "BB",
+                "hyperchol",
+                "sonata",
+                "sonata",
+                "bloused",
+                "BB",
+                "NSR",
+                "Ramp",
+                "Pump",
+                "subthereapeutic",
+                "RISS",
+                "RISS",
+                "POBA",
+                "CCU"
+            ],
+            "false_negatives": [
+                "48",
+                "48"
+            ],
+            "num_false_negatives": 2
+        },
+        "./data/i2b2_results/100-05.txt": {
+            "false_positives": [
+                "2",
+                "2",
+                "Went",
+                "2",
+                "2",
+                "RLE",
+                "Nov",
+                "1",
+                "HA",
+                "Hyperchol",
+                "129",
+                "80",
+                "Galiverdin",
+                "Conversationally",
+                "XI",
+                "SCMs",
+                "5",
+                "5",
+                "ElF",
+                "ElE",
+                "WrE",
+                "FE",
+                "IO",
+                "KnE",
+                "KnF",
+                "Dors",
+                "colder",
+                "Bra",
+                "Hoff",
+                "Pat",
+                "Down",
+                "R",
+                "Romberg",
+                "136",
+                "135",
+                "145",
+                "100",
+                "108",
+                "Chol",
+                "210",
+                "150",
+                "350",
+                "CCA",
+                "ACA",
+                "LUE",
+                "LUE",
+                "Will",
+                "PT20210",
+                "Factor",
+                "V",
+                "Leiden",
+                "Will",
+                "BCx2",
+                "Will",
+                "Will",
+                "LAE",
+                "RISS"
+            ],
+            "false_negatives": [
+                "50",
+                "71",
+                "HPC"
+            ],
+            "num_false_negatives": 3
+        },
+        "./data/i2b2_results/101-01.txt": {
+            "false_positives": [
+                "Internal"
+            ],
+            "false_negatives": [
+                "CENTER"
+            ],
+            "num_false_negatives": 1
+        },
+        "./data/i2b2_results/101-02.txt": {
+            "false_positives": [
+                "Internal",
+                "146",
+                "86"
+            ],
+            "false_negatives": [
+                "CENTER"
+            ],
+            "num_false_negatives": 1
+        },
+        "./data/i2b2_results/101-03.txt": {
+            "false_positives": [
+                "Internal"
+            ],
+            "false_negatives": [
+                "CENTER"
+            ],
+            "num_false_negatives": 1
+        },
+        "./data/i2b2_results/102-01.txt": {
+            "false_positives": [
+                "hemorroids",
+                "DMx20yrs",
+                "125",
+                "150",
+                "CP",
+                "DOE",
+                "RA",
+                "Ht",
+                "6",
+                "Wt",
+                "209",
+                "BP",
+                "180",
+                "74",
+                "HEEN"
+            ],
+            "false_negatives": [
+                "81",
+                "2062"
+            ],
+            "num_false_negatives": 2
+        },
+        "./data/i2b2_results/102-02.txt": {
+            "false_positives": [
+                "Comes",
+                "B",
+                "103",
+                "149",
+                "L",
+                "HS",
+                "150",
+                "175",
+                "Sees",
+                "126",
+                "60",
+                "Will"
+            ],
+            "false_negatives": [
+                "2119"
+            ],
+            "num_false_negatives": 1
+        },
+        "./data/i2b2_results/102-03.txt": {
+            "false_positives": [
+                "Comes",
+                "Bell",
+                "ly",
+                "AJ"
+            ],
+            "false_negatives": [
+                "printing",
+                "press",
+                "operator"
+            ],
+            "num_false_negatives": 3
+        },
+        "./data/i2b2_results/102-04.txt": {
+            "false_positives": [
+                "MD"
+            ],
+            "false_negatives": [
+                "FAMILY",
+                "HEALTH",
+                "CLINIC",
+                "FHC"
+            ],
+            "num_false_negatives": 4
+        },
+        "./data/i2b2_results/102-05.txt": {
+            "false_positives": [
+                "111",
+                "50",
+                "ASMI",
+                "nitropatch"
+            ],
+            "false_negatives": [
+                "FAMILY",
+                "HEALTH",
+                "CLINIC"
+            ],
+            "num_false_negatives": 3
+        },
+        "./data/i2b2_results/103-01.txt": {
+            "false_positives": [
+                "143",
+                "96"
+            ],
+            "false_negatives": [
+                "47"
+            ],
+            "num_false_negatives": 1
+        },
+        "./data/i2b2_results/103-02.txt": {
+            "false_positives": [],
+            "false_negatives": [
+                "52",
+                "2067",
+                "52"
+            ],
+            "num_false_negatives": 3
+        }
+    }
+}
