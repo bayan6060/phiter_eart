@@ -1,6 +1,9 @@
-# Installing Philter
+# ARTPHIL
+ARTPHIL is a software system that encrypt protected health information (PHI) from any plain text file. it integrates two model E-ART encrption algorithm and Philter
 
-To install Philter from PyPi, run the following command:
+# Installing ARTPHIL
+
+To install ARTPHIL from PyPi, run the following command:
 
 ```bash
 pip3 install philter-ucsf
@@ -17,7 +20,7 @@ However, we strongly suggest that you download the project source code and run a
 
 # Running Philter: A Step-by-Step Guide
 
-Philter is a command-line based clinical text de-identification software that removes protected health information (PHI) from any plain text file. Although the software has built-in evaluation capabilities and can compare Philter PHI-reduced notes with a corresponding set of ground truth annotations, annotations are not required to run Philter. The following steps may be used to 1) run Philter in the command line without ground truth annotations, or 2) generate Philter-compatible annotations and run Philter in evaluation mode using ground truth annotations. Although any set of notes and corresponding annotations may be used with Philter, the examples provided here will correspond to the I2B2 dataset, which Philter uses in its default configuration. 
+ The software has built-in evaluation capabilities and can compare ARTPHI PHI-reduced notes with a corresponding set of ground truth annotations, annotations are not required to run ARTPHIL. The following steps may be used to 1) run Philter in the command line without ground truth annotations, or 2) generate Philter-compatible annotations and run Philter in evaluation mode using ground truth annotations. Although any set of notes and corresponding annotations may be used with Philter, the examples provided here will correspond to the I2B2 dataset, which Philter uses in its default configuration. 
 
 Before running Philter either with or without evaluation, make sure to familiarize yourself with the various options that may be used for any given Philter run:
 
