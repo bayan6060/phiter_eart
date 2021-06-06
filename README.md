@@ -1,5 +1,9 @@
 # ARTPHIL
-ARTPHIL is a software system that encrypt protected health information (PHI) from any plain text file. it integrates two model E-ART encrption algorithm and Philter
+ARTPHIL is a software system that detect and encrypt protected health information (PHI) from any plain text file. it integrates two model E-ART encrption algorithm and Philter
+
+![image](https://user-images.githubusercontent.com/37218382/120935294-fef32200-c68c-11eb-8fa6-5b521e6d436b.png)
+
+
 
 # Installing ARTPHIL
 
