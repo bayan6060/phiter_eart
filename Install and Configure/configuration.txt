@@ -1,0 +1,10 @@
+1. Install Anaconda on Windows 7/10
+2. Use the Spyder IDE for code
+3. To generate dataset, first copy the xml data file in a folder "data/i2b2_xml"
+4. in "generate_dateset", run "main_ucsf_updated.py", it will generate annotated filed in "data/i2b2_anno" folder
+
+
+
+
+
+
