@@ -12,10 +12,6 @@ import sys
 import argparse
 import array
 
-
-
-
-
 find = False
 Low = 0;
 High = 9;
